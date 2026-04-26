@@ -1,7 +1,7 @@
 <h1>👋 Hi, I'm Mir Eashan Zaman</h1>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4ECDC4&width=435&lines=Full-stack+%26+Game+Developer;AIUB+CS+Student;Building+cool+things+with+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4ECDC4&width=435&lines=Full-stack+%26+Game+Developer;AIUB+CSE+Student;Building+cool+things+with+code" alt="Typing SVG" />
 </p>
 
 ---
@@ -47,4 +47,4 @@
 
 ---
 
-<sub>🎓 CS student @ AIUB · Building things one commit at a time</sub>
+<sub>🎓 CSE student @ AIUB · Building things one commit at a time</sub>
