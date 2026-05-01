@@ -12,8 +12,8 @@ I build across the full stack — management systems in PHP & C#, browser games 
 | Project | Stack | Live |
 |---|---|---|
 | [Neon Strike](https://github.com/MirEashanZaman/Neon-Strike) | HTML/JS | [▶ Play](https://neon-strike01.netlify.app) |
-| [Sky Dasher](https://github.com/MirEashanZaman/sky-dasher) | HTML/JS | — |
-| [Snake](https://github.com/MirEashanZaman/Snake) | JavaScript | — |
+| [Sky Dasher](https://github.com/MirEashanZaman/sky-dasher) | HTML/JS | — | [▶ Play](https://sky-dasher.netlify.app)]
+| [Snake](https://github.com/MirEashanZaman/Snake) | JavaScript | — | [▶ Play](https://snake-game-nostalgia.netlify.app)]
 
 ### 🏢 Management Systems
 | Project | Stack |
@@ -41,7 +41,7 @@ I build across the full stack — management systems in PHP & C#, browser games 
 
 ## 📊 GitHub Stats
 
-![Eshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MirEashanZaman&show_icons=true&hide_border=true&theme=default)
+![Eashan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MirEashanZaman&show_icons=true&hide_border=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirEashanZaman&layout=compact&hide_border=true)
 
 ---
