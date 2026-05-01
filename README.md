@@ -41,8 +41,6 @@ I build across the full stack — management systems in PHP & C#, browser games 
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 ![streak](https://streak-stats.demolab.com?user=MirEashanZaman&theme=tokyonight&hide_border=true)
 
 ![trophies](https://github-profile-trophy.vercel.app/?username=MirEashanZaman&theme=tokyonight&no-frame=true&row=1)
