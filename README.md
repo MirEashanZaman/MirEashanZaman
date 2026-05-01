@@ -41,9 +41,11 @@ I build across the full stack — management systems in PHP & C#, browser games 
 
 ## 📊 GitHub Stats
 
-[![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MirEashanZaman&show_icons=true&hide_border=true)](https://github.com/MirEashanZaman)
+## 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MirEashanZaman&layout=compact&hide_border=true)](https://github.com/MirEashanZaman)
+![streak](https://streak-stats.demolab.com?user=MirEashanZaman&theme=tokyonight&hide_border=true)
+
+![trophies](https://github-profile-trophy.vercel.app/?username=MirEashanZaman&theme=tokyonight&no-frame=true&row=1)
 
 ---
 
