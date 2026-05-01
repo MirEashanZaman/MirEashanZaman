@@ -47,6 +47,3 @@ I build across the full stack — management systems in PHP & C#, browser games 
 
 ![trophies](https://github-profile-trophy.vercel.app/?username=MirEashanZaman&theme=tokyonight&no-frame=true&row=1)
 
----
-
-📬 [github.com/MirEashanZaman](https://github.com/MirEashanZaman)
