@@ -1,6 +1,6 @@
-# Hi, I'm Eshan 👋
+# Hi, I'm Mir Eashan Zaman 👋
 
-> CS student @ AIUB · Full-stack dev · Game builder · Dhaka 🇧🇩
+> CSE student @ AIUB
 
 I build across the full stack — management systems in PHP & C#, browser games in JS/HTML, and interactive web UIs. Each project is a real, deployable system.
 
