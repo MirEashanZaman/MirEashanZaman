@@ -1,47 +1,72 @@
-# Hi, I'm Mir Eashan Zaman 👋
 
-> CSE student @ AIUB
 
-I build across the full stack — management systems in PHP & C#, browser games in JS/HTML, and interactive web UIs. Each project is a real, deployable system.
+# Hi there, I'm Eshan 👋
+
+**Full-Stack Web Developer · Game Builder · CS Student @ AIUB**
+Dhaka, Bangladesh 🇧🇩
+
+[![GitHub](https://img.shields.io/badge/GitHub-MirEashanZaman-181717?style=flat&logo=github)](https://github.com/MirEashanZaman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mir%20Eashan%20Zaman-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/mir-eashan-zaman-319474343)
+[![Live Demo](https://img.shields.io/badge/▶%20Neon%20Strike-Live-brightgreen?style=flat)](https://neon-strike01.netlify.app)
+
+
+
+---
+
+## 🛠 I build things that actually ship
+
+> Management systems · Browser games · Full-stack web apps
+> Currently deep into AI tooling: Claude API, MCP, GitHub Copilot
 
 ---
 
 ## 🚀 Projects
 
-### 🎮 Games
-| Project | Stack | Live |
-|---|---|---|
-| [Neon Strike](https://github.com/MirEashanZaman/Neon-Strike) | HTML/JS | [▶ Play](https://neon-strike01.netlify.app) |
-| [Sky Dasher](https://github.com/MirEashanZaman/sky-dasher) | HTML/JS | [▶ Play](https://sky-dasher.netlify.app)
-| [Snake](https://github.com/MirEashanZaman/Snake) | JavaScript | [▶ Play](https://snake-game-nostalgia.netlify.app)
-
 ### 🏢 Management Systems
 | Project | Stack |
 |---|---|
-| [Hotel Management System](https://github.com/MirEashanZaman/Hotel-Management-System) | PHP · MySQL · HTML/CSS/JS |
-| [Pharmacy Management System](https://github.com/MirEashanZaman/Pharmacy_Management_System) | PHP · MySQL · HTML/CSS/JS |
-| [Car Showroom Management System](https://github.com/MirEashanZaman/Car-Showroom-Management-System) | C# |
-| [Oil Supply & Delivery Management System](https://github.com/MirEashanZaman/Oil-Supply-And-Delivery-Management-System) | PHP · MySQL |
+| [🏥 Pharmacy Management System](https://github.com/MirEashanZaman/Pharmacy_Management_System) | PHP · MySQL · HTML/CSS/JS |
+| [🏨 Hotel Management System](https://github.com/MirEashanZaman/Hotel-Management-System) | PHP · MySQL · HTML/CSS/JS |
+| [🚗 Car Showroom Management System](https://github.com/MirEashanZaman/Car-Showroom-Management-System) | C# · SQL Server |
+| [🛢 Oil Supply & Delivery System](https://github.com/MirEashanZaman/Oil-Supply-And-Delivery-Management-System) | PHP · MySQL |
 
-### 📚 Academic
-| Project | Stack |
-|---|---|
-| [WBT Spring 2025–2026](https://github.com/MirEashanZaman/wbt-spring-2025-2026) | HTML/CSS/JS |
+### 🎮 Games
+| Project | Stack | Live |
+|---|---|---|
+| [⚡ Neon Strike](https://github.com/MirEashanZaman/Neon-Strike) | HTML · CSS · JS | [▶ Play](https://neon-strike01.netlify.app) |
+| [🌌 Sky Dasher](https://github.com/MirEashanZaman/sky-dasher) | HTML · CSS · JS | — |
+| [🐍 Snake](https://github.com/MirEashanZaman/Snake) | JavaScript | — |
 
 ---
 
 ## 🛠 Stack
 
-**Frontend** `HTML5` `CSS3` `JavaScript ES6+`  
-**Backend** `PHP` `MySQL` `C#`  
-**Games** `Canvas API` `Vanilla JS`  
-**Tools** `Git` `GitHub` `Netlify` `VS Code` `XAMPP`
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![streak](https://streak-stats.demolab.com?user=MirEashanZaman&theme=tokyonight&hide_border=true)
+![stats](https://streak-stats.demolab.com?user=MirEashanZaman&theme=default&hide_border=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirEashanZaman&layout=compact&hide_border=true&langs_count=6)
 
-![trophies](https://github-profile-trophy.vercel.app/?username=MirEashanZaman&theme=tokyonight&no-frame=true&row=1)
+---
 
+## 🏅 Selected Certifications (70+ total)
+
+- 🤖 **Anthropic** — Claude API · Claude Code · MCP Advanced · Subagents
+- 🔵 **Microsoft** — GitHub Copilot (Full series) · C# Foundations · Azure AI
+- 🟡 **Google** — Gemini Certified University Student · Generative AI Studio
+- 🔶 **Oracle** — AI for You: Training and Assessment
+
+---
+
+
+  Open to internships & junior developer opportunities
