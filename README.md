@@ -2,12 +2,11 @@
 
 # Hi there, I'm Eshan 👋
 
-**Full-Stack Web Developer · Game Builder · CS Student @ AIUB**
+**Full-Stack Web Developer · Game Builder · CSE Student @ AIUB**
 Dhaka, Bangladesh 🇧🇩
 
 [![GitHub](https://img.shields.io/badge/GitHub-MirEashanZaman-181717?style=flat&logo=github)](https://github.com/MirEashanZaman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mir%20Eashan%20Zaman-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/mir-eashan-zaman-319474343)
-[![Live Demo](https://img.shields.io/badge/▶%20Neon%20Strike-Live-brightgreen?style=flat)](https://neon-strike01.netlify.app)
 
 
 
@@ -34,8 +33,8 @@ Dhaka, Bangladesh 🇧🇩
 | Project | Stack | Live |
 |---|---|---|
 | [⚡ Neon Strike](https://github.com/MirEashanZaman/Neon-Strike) | HTML · CSS · JS | [▶ Play](https://neon-strike01.netlify.app) |
-| [🌌 Sky Dasher](https://github.com/MirEashanZaman/sky-dasher) | HTML · CSS · JS | — |
-| [🐍 Snake](https://github.com/MirEashanZaman/Snake) | JavaScript | — |
+| [🌌 Sky Dasher](https://github.com/MirEashanZaman/sky-dasher) | HTML · CSS · JS | [▶ Play](https://sky-dasher.netlify.app) |
+| [🐍 Snake](https://github.com/MirEashanZaman/Snake) | JavaScript | [▶ Play](https://snake-game-nostalgia.netlify.app) |
 
 ---
 
