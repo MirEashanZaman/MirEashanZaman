@@ -53,8 +53,7 @@ Dhaka, Bangladesh 🇧🇩
 
 ## 📊 GitHub Stats
 
-![stats](https://streak-stats.demolab.com?user=MirEashanZaman&theme=default&hide_border=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirEashanZaman&layout=compact&hide_border=true&langs_count=6)
+![activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MirEashanZaman&theme=default)
 
 ---
 
