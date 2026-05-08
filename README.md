@@ -5,7 +5,7 @@
 **Full-Stack Web Developer · Game Builder · CSE Student @ AIUB**
 Dhaka, Bangladesh 🇧🇩
 
-It's my portfolio website [](https://mireashanzaman.github.io/MirEashanZaman-Portfolio/)
+[![It's my portfolio website]](https://mireashanzaman.github.io/MirEashanZaman-Portfolio/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-MirEashanZaman-181717?style=flat&logo=github)](https://github.com/MirEashanZaman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mir%20Eashan%20Zaman-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/mir-eashan-zaman-319474343)
