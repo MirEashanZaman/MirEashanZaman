@@ -6,7 +6,7 @@
 Dhaka, Bangladesh 🇧🇩
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat&logo=github)](https://mireashanzaman.github.io/MirEashanZaman-Portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-MirEashanZaman-181717?style=flat&logo=github)](https://github.com/MirEashanZaman)
+[![GitHub](https://img.shields.io/badge/GitHub-MirEashanZaman-0A66C2?style=flat&logo=github)](https://github.com/MirEashanZaman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mir%20Eashan%20Zaman-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/mir-eashan-zaman-319474343)
 
 
