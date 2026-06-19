@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <!-- Header Wave with Custom Gradient & Text -->
@@ -12,21 +11,21 @@
 <!-- Badges -->
 <p>
   <a href="https://mireashanzaman.github.io/MirEashanZaman-Portfolio/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-00d4aa?style=for-the-badge&logo=googlechrome&logoColor=0d1117"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-00d4aa?style=for-the-badge&logo=googlechrome&logoColor=0d1117" alt="Portfolio"/>
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/mir-eashan-zaman-319474343">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>&nbsp;
   <a href="https://github.com/MirEashanZaman">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 <!-- Live Stats -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=MirEashanZaman&style=flat-square&color=00d4aa&label=profile+visits"/>&nbsp;
-  <img src="https://img.shields.io/badge/dynamic/json?color=00d4aa&label=repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FMirEashanZaman&style=flat-square"/>&nbsp;
-  <img src="https://img.shields.io/badge/dynamic/json?color=00d4aa&label=followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FMirEashanZaman&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=MirEashanZaman&style=flat-square&color=00d4aa&label=profile+visits" alt="Profile Visits"/>&nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?color=00d4aa&label=repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FMirEashanZaman&style=flat-square" alt="Repos Count"/>&nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?color=00d4aa&label=followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FMirEashanZaman&style=flat-square" alt="Followers Count"/>
 </p>
 
 </div>
@@ -37,7 +36,7 @@
   <tr>
     <td width="55%" valign="top">
       <h3>⚡ About Me</h3>
-      <pre><code class="language-yaml">🔬 Currently building : Blood_Bridge 🩸 (Blood Bank System)
+      <pre><code class="language-yaml">🔭 Currently building : Blood_Bridge 🩸 (Blood Bank System)
 🎓 Studying          : CSE @ AIUB, Dhaka 🇧🇩
 🛠 Stack             : PHP · MySQL · JS · C# · HTML/CSS
 🏆 Certifications    : 70+ (Anthropic · MS · Google · Oracle)
@@ -50,10 +49,6 @@
       <h3>📊 GitHub Stats</h3>
       <a href="https://github.com/MirEashanZaman">
         <img src="https://github-readme-stats.vercel.app/api?username=MirEashanZaman&show_icons=true&theme=radical&bg_color=0d1117&border_color=00d4aa&icon_color=00d4aa&title_color=00d4aa&text_color=c9d1d9&count_private=true&hide_border=false" width="100%" alt="GitHub Stats"/>
-      </a>
-      <br>
-      <a href="https://github.com/MirEashanZaman">
-        <img src="https://github-profile-trophy.vercel.app/?username=MirEashanZaman&theme=radical&no-frame=true&no-bg=true&margin-w=5&column=3" width="100%" alt="Achievements / Trophies"/>
       </a>
     </td>
   </tr>
@@ -188,19 +183,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🐍 Contribution Snake
-
-<!-- This uses a live API that updates automatically without needing github action setup -->
-<p align="center">
-  <img src="https://platane.github.io/snk/svg/MirEashanZaman.svg" alt="github-snake" width="100%"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer Quote"/>
 </p>
 
-<!-- Footer Wave (Switch to a stable layout-matching SVG divider) -->
+<!-- Footer Divider -->
 <hr style="border: 1px solid #00d4aa;">
-```
+</div>
