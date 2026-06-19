@@ -3,9 +3,7 @@
 <!-- Header Wave with Custom Gradient & Text -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Mir%20Eashan%20Zaman&fontSize=42&fontColor=00d4aa&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Game%20Builder%20%7C%20CSE%20%40%20AIUB&descSize=16&descAlignY=58&descColor=c9d1d9" width="100%"/>
 
-<br>
-
-<!-- Typing Animation (Expanded height and width to prevent vertical cropping) -->
+<!-- Typing Animation -->
 <a href="https://github.com/MirEashanZaman">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=true&width=835&height=120&lines=Building+Systems+That+Actually+Ship+%F0%9F%9A%80;From+Database+Schema+to+Netlify+Deploy;I+Build+by+Day+and+Game+by+Night+%F0%9F%8E%AE" alt="Typing SVG"/>
 </a>
@@ -70,7 +68,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💼 Management Systems
+## 💼 Featured Management Systems
 
 <table align="center" width="100%">
   <tr>
