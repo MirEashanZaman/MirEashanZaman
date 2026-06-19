@@ -38,7 +38,7 @@
   <tr>
     <td width="55%" valign="top">
       <h3>⚡ About Me</h3>
-      <pre><code class="language-yaml">🔭 Currently building : Blood_Bridge 🩸 (Blood Bank System)
+      
 🎓 Studying          : CSE @ AIUB, Dhaka 🇧🇩
 🛠 Stack             : PHP · MySQL · JS · C# · HTML/CSS
 🏆 Certifications    : 70+ (Anthropic · MS · Google · Oracle)
