@@ -1,6 +1,4 @@
-Here is the complete, copy-pasteable markdown code for your GitHub Profile `README.md`:
 
-```markdown
 <div align="center">
 
 <!-- Header Wave with Custom Gradient & Text -->
@@ -39,7 +37,7 @@ Here is the complete, copy-pasteable markdown code for your GitHub Profile `READ
   <tr>
     <td width="55%" valign="top">
       <h3>⚡ About Me</h3>
-      <pre><code class="language-yaml">🔭 Currently building : Blood_Bridge 🩸 (Blood Bank System)
+      <pre><code class="language-yaml">🔬 Currently building : Blood_Bridge 🩸 (Blood Bank System)
 🎓 Studying          : CSE @ AIUB, Dhaka 🇧🇩
 🛠 Stack             : PHP · MySQL · JS · C# · HTML/CSS
 🏆 Certifications    : 70+ (Anthropic · MS · Google · Oracle)
@@ -192,12 +190,9 @@ Here is the complete, copy-pasteable markdown code for your GitHub Profile `READ
 
 ## 🐍 Contribution Snake
 
+<!-- This uses a live API that updates automatically without needing github action setup -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MirEashanZaman/MirEashanZaman/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MirEashanZaman/MirEashanZaman/output/github-snake.svg"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/MirEashanZaman/MirEashanZaman/output/github-snake-dark.svg"/>
-  </picture>
+  <img src="https://platane.github.io/snk/svg/MirEashanZaman.svg" alt="github-snake" width="100%"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -206,6 +201,6 @@ Here is the complete, copy-pasteable markdown code for your GitHub Profile `READ
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer Quote"/>
 </p>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Keep%20Building%20%26%20Stay%20Curious!%20🚀&fontSize=22&fontColor=00d4aa&animation=twinkling" width="100%"/>
+<!-- Footer Wave (Switch to a stable layout-matching SVG divider) -->
+<hr style="border: 1px solid #00d4aa;">
 ```
