@@ -1,8 +1,3 @@
-<!-- Premium Header Banner -->
-<p align="center">
-  <img src="./assets/banner.png" alt="MirEashanZaman Banner" width="100%"/>
-</p>
-
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
