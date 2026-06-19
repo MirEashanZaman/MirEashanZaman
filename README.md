@@ -73,14 +73,14 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/MirEashanZaman/Blood_Bridge">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirEashanZaman&repo=Blood_Bridge&theme=radical&bg_color=0d1117&border_color=00d4aa&icon_color=00d4aa&title_color=00d4aa&description_color=c9d1d9" width="100%" alt="Blood_Bridge"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirEashanZaman&repo=Blood_Bridge&theme=radical&bg_color=0d1117&border_color=00d4aa&icon_color=00d4aa&title_color=00d4aa&description_color=c9d1d9&cache_seconds=1800" width="100%" alt="Blood_Bridge"/>
       </a>
       <br>
       <sub>🩸 <b>Blood Bridge</b> — Donor & blood bank management hub</sub>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/MirEashanZaman/Pharmacy_Management_System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirEashanZaman&repo=Pharmacy_Management_System&theme=radical&bg_color=0d1117&border_color=00d4aa&icon_color=00d4aa&title_color=00d4aa&description_color=c9d1d9" width="100%" alt="Pharmacy_Management_System"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirEashanZaman&repo=Pharmacy_Management_System&theme=radical&bg_color=0d1117&border_color=00d4aa&icon_color=00d4aa&title_color=00d4aa&description_color=c9d1d9&cache_seconds=1800" width="100%" alt="Pharmacy_Management_System"/>
       </a>
       <br>
       <sub>💊 <b>Pharmacy Portal</b> — Inventory, billing & stock tracking</sub>
@@ -89,14 +89,14 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/MirEashanZaman/Hotel-Management-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirEashanZaman&repo=Hotel-Management-System&theme=radical&bg_color=0d1117&border_color=00d4aa&icon_color=00d4aa&title_color=00d4aa&description_color=c9d1d9" width="100%" alt="Hotel-Management-System"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirEashanZaman&repo=Hotel-Management-System&theme=radical&bg_color=0d1117&border_color=00d4aa&icon_color=00d4aa&title_color=00d4aa&description_color=c9d1d9&cache_seconds=1800" width="100%" alt="Hotel-Management-System"/>
       </a>
       <br>
       <sub>🏨 <b>Hotel Suite</b> — Multi-role booking & payment platform</sub>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/MirEashanZaman/Car-Showroom-Management-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirEashanZaman&repo=Car-Showroom-Management-System&theme=radical&bg_color=0d1117&border_color=00d4aa&icon_color=00d4aa&title_color=00d4aa&description_color=c9d1d9" width="100%" alt="Car-Showroom-Management-System"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirEashanZaman&repo=Car-Showroom-Management-System&theme=radical&bg_color=0d1117&border_color=00d4aa&icon_color=00d4aa&title_color=00d4aa&description_color=c9d1d9&cache_seconds=1800" width="100%" alt="Car-Showroom-Management-System"/>
       </a>
       <br>
       <sub>🚗 <b>Car Showroom Hub</b> — C# & SQL Server dealership CRM</sub>
@@ -105,14 +105,14 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/MirEashanZaman/Oil-Supply-And-Delivery-Management-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirEashanZaman&repo=Oil-Supply-And-Delivery-Management-System&theme=radical&bg_color=0d1117&border_color=00d4aa&icon_color=00d4aa&title_color=00d4aa&description_color=c9d1d9" width="100%" alt="Oil-Supply-And-Delivery-Management-System"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirEashanZaman&repo=Oil-Supply-And-Delivery-Management-System&theme=radical&bg_color=0d1117&border_color=00d4aa&icon_color=00d4aa&title_color=00d4aa&description_color=c9d1d9&cache_seconds=1800" width="100%" alt="Oil-Supply-And-Delivery-Management-System"/>
       </a>
       <br>
       <sub>🛢️ <b>Oil Logix</b> — Supply chain dispatch & delivery tracker</sub>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/MirEashanZaman/Travel-Guide">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirEashanZaman&repo=Travel-Guide&theme=radical&bg_color=0d1117&border_color=00d4aa&icon_color=00d4aa&title_color=00d4aa&description_color=c9d1d9" width="100%" alt="Travel-Guide"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirEashanZaman&repo=Travel-Guide&theme=radical&bg_color=0d1117&border_color=00d4aa&icon_color=00d4aa&title_color=00d4aa&description_color=c9d1d9&cache_seconds=1800" width="100%" alt="Travel-Guide"/>
       </a>
       <br>
       <sub>✈️ <b>Travel Guide</b> — Visual journey planner & destination guide</sub>
@@ -140,17 +140,17 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/MirEashanZaman/Neon-Strike">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirEashanZaman&repo=Neon-Strike&theme=radical&bg_color=0d1117&border_color=00d4aa&icon_color=00d4aa&title_color=00d4aa&description_color=c9d1d9" width="100%" alt="Neon Strike"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirEashanZaman&repo=Neon-Strike&theme=radical&bg_color=0d1117&border_color=00d4aa&icon_color=00d4aa&title_color=00d4aa&description_color=c9d1d9&cache_seconds=1800" width="100%" alt="Neon Strike"/>
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/MirEashanZaman/sky-dasher">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirEashanZaman&repo=sky-dasher&theme=radical&bg_color=0d1117&border_color=00d4aa&icon_color=00d4aa&title_color=00d4aa&description_color=c9d1d9" width="100%" alt="Sky Dasher"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirEashanZaman&repo=sky-dasher&theme=radical&bg_color=0d1117&border_color=00d4aa&icon_color=00d4aa&title_color=00d4aa&description_color=c9d1d9&cache_seconds=1800" width="100%" alt="Sky Dasher"/>
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/MirEashanZaman/Snake">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirEashanZaman&repo=Snake&theme=radical&bg_color=0d1117&border_color=00d4aa&icon_color=00d4aa&title_color=00d4aa&description_color=c9d1d9" width="100%" alt="Snake"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirEashanZaman&repo=Snake&theme=radical&bg_color=0d1117&border_color=00d4aa&icon_color=00d4aa&title_color=00d4aa&description_color=c9d1d9&cache_seconds=1800" width="100%" alt="Snake"/>
       </a>
     </td>
   </tr>
