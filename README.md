@@ -3,9 +3,9 @@
 <!-- Header Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Mir%20Eashan%20Zaman&fontSize=42&fontColor=00d4aa&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Game%20Builder%20%7C%20CSE%20%40%20AIUB&descSize=16&descAlignY=58&descColor=c9d1d9" width="100%"/>
 
-<!-- Typing Animation -->
+<!-- Typing Animation (herokuapp - stable) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=true&width=835&height=80&lines=Building+Systems+That+Actually+Ship+🚀;From+Database+Schema+to+Netlify+Deploy;I+Build+by+Day+and+Game+by+Night+🎮" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=true&width=835&height=80&lines=Building+Systems+That+Actually+Ship+🚀;From+Database+Schema+to+Netlify+Deploy;I+Build+by+Day+and+Game+by+Night+🎮" alt="Typing SVG"/>
 </a>
 
 <!-- Badges -->
@@ -46,10 +46,8 @@
 ⚡ Fun fact          : I build systems by day and games by night!</code></pre>
     </td>
     <td width="45%" valign="top" align="center">
-      <h3>🏆 Achievements</h3>
-      <a href="https://github.com/MirEashanZaman">
-        <img src="https://github-profile-trophy.vercel.app/?username=MirEashanZaman&theme=radical&no-frame=true&no-bg=true&margin-w=5&column=3" width="100%"/>
-      </a>
+      <h3>📊 GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=MirEashanZaman&show_icons=true&theme=radical&bg_color=0d1117&border_color=00d4aa&icon_color=00d4aa&title_color=00d4aa&text_color=c9d1d9&count_private=true&hide_border=false" width="100%"/>
     </td>
   </tr>
 </table>
@@ -168,7 +166,6 @@
 ## 📊 Developer Metrics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MirEashanZaman&show_icons=true&theme=radical&bg_color=0d1117&border_color=00d4aa&icon_color=00d4aa&title_color=00d4aa&text_color=c9d1d9&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirEashanZaman&layout=compact&theme=radical&bg_color=0d1117&border_color=00d4aa&title_color=00d4aa&text_color=c9d1d9&langs_count=8"/>
 </p>
 
