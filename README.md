@@ -1,19 +1,19 @@
 <div align="center">
 
-<!-- Header Wave with Custom Gradient & Text -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Mir%20Eashan%20Zaman&fontSize=42&fontColor=00d4aa&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Game%20Builder%20%7C%20CSE%20%40%20AIUB&descSize=16&descAlignY=58&descColor=c9d1d9" width="100%"/>
+<!-- Header Banner: Modern Slice Animation -->
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0d1117&customColorList=10&height=200&section=header&text=Mir%20Eashan%20Zaman&fontSize=50&fontColor=00D4AA&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Interactive%20System%20Builder%20%7C%20CSE%20%40%20AIUB&descSize=16&descAlignY=65&descColor=8b949e" width="100%"/>
 
-<!-- Typing Animation -->
+<!-- Typing Animation with Mint Green / Cyberpunk Glow -->
 <a href="https://github.com/MirEashanZaman">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=true&width=835&height=120&lines=Building+Systems+That+Actually+Ship+%F0%9F%9A%80;From+Database+Schema+to+Netlify+Deploy;I+Build+by+Day+and+Game+by+Night+%F0%9F%8E%AE" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=true&width=835&height=120&lines=Building+Next-Gen+Backends+%E2%9A%A1;Crafting+Interactive+Vanilla+JS+Games+%F0%9F%8E%AE;From+Relational+Schemas+to+Deployed+APIs+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
-<br><br>
+<br>
 
-<!-- Badges -->
+<!-- Premium Glowing Badges -->
 <p>
   <a href="https://mireashanzaman.github.io/MirEashanZaman-Portfolio/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-00d4aa?style=for-the-badge&logo=googlechrome&logoColor=0d1117" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-00D4AA?style=for-the-badge&logo=googlechrome&logoColor=0d1117&labelColor=c9d1d9" alt="Portfolio"/>
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/mir-eashan-zaman-319474343">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -23,7 +23,7 @@
   </a>
 </p>
 
-<!-- Live Stats -->
+<!-- Live Visitors & Repos Stats Counter -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=MirEashanZaman&style=flat-square&color=00d4aa&label=profile+visits" alt="Profile Visits"/>&nbsp;
   <img src="https://img.shields.io/badge/dynamic/json?color=00d4aa&label=repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FMirEashanZaman&style=flat-square" alt="Repos Count"/>&nbsp;
@@ -57,17 +57,17 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Utilities
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,cs,js,html,css&theme=dark" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=php,cs,js,html,css,nestjs,postgres&theme=dark" alt="Languages"/>
   <br>
   <img src="https://skillicons.dev/icons?i=mysql,git,github,netlify,vscode,windows&theme=dark" alt="Tools"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💼 Management Systems
+## 💼 Management Systems & Projects
 
 <table align="center" width="100%">
   <tr>
@@ -108,7 +108,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirEashanZaman&repo=Oil-Supply-And-Delivery-Management-System&theme=radical&bg_color=0d1117&border_color=00d4aa&icon_color=00d4aa&title_color=00d4aa&description_color=c9d1d9&cache_seconds=1800" width="100%" alt="Oil-Supply-And-Delivery-Management-System"/>
       </a>
       <br>
-      <sub>🛢️ <b>Oil Logix</b> — Supply chain dispatch & delivery tracker</sub>
+      <sub>🛢️ <b>Oil Logix Frontend</b> — Supply chain client portal</sub>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/MirEashanZaman/Travel-Guide">
@@ -118,21 +118,19 @@
       <sub>✈️ <b>Travel Guide</b> — Visual journey planner & destination guide</sub>
     </td>
   </tr>
-  <!-- Row 4: New Projects -->
+  <!-- Row 4: New Projects (Oil Backend and Chess Game) -->
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/MirEashanZaman/Oil-Supply-Delivery-Management-System-Backend">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirEashanZaman&repo=Oil-Supply-Delivery-Management-System-Backend&theme=radical&bg_color=0d1117&border_color=00d4aa&icon_color=00d4aa&title_color=00d4aa&description_color=c9d1d9&cache_seconds=1800" width="100%" alt="Oil-Supply-Delivery-Management-System-Backend"/>
-      </a>
       <br>
-      <sub>🛢️ <b>Oil Logix Backend</b> — NestJS, TypeORM & PostgreSQL API</sub>
+      <h3><a href="https://github.com/MirEashanZaman/Oil-Supply-Delivery-Management-System-Backend">🛢️ Oil Logix Backend API</a></h3>
+      <sub>NestJS · TypeORM · PostgreSQL · Bcrypt · Mailer · JWT</sub>
+      <br><br>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/MirEashanZaman/Chess-Game">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirEashanZaman&repo=Chess-Game&theme=radical&bg_color=0d1117&border_color=00d4aa&icon_color=00d4aa&title_color=00d4aa&description_color=c9d1d9&cache_seconds=1800" width="100%" alt="Chess-Game"/>
-      </a>
       <br>
-      <sub>♟️ <b>Chess Game</b> — Interactive web-based chess simulator</sub>
+      <h3><a href="https://github.com/MirEashanZaman/Chess-Game">♟️ Interactive Chess Game</a></h3>
+      <sub>Multiplayer Chess Simulator · HTML5 · Vanilla JS</sub>
+      <br><br>
     </td>
   </tr>
 </table>
