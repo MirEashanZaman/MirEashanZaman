@@ -15,17 +15,17 @@
 <br>
 
 ```ansi
-┌─[eashan@aiub]─[~]
-└──╼ $ whoami --verbose
+[38;5;117m┌─[eashan@aiub]─[~][0m
+[38;5;117m└──╼ [38;5;47m$ whoami --verbose[0m
 
-  name        : Mir Eashan Zaman
-  role        : Full-Stack Developer · CSE Student @ AIUB
-  location    : Dhaka, Bangladesh
-  stack       : PHP · MySQL · JS · C# · NestJS · TypeORM
-  certs       : 70+ (Anthropic · Microsoft · Google · Oracle)
-  exploring   : Claude API · MCP · AI-assisted dev tooling
-  side_quest  : shipping browser games in vanilla JS
-  status      : online, shipping code, probably debugging something 🐛
+  [1;38;5;214mname        [0m: [38;5;250mMir Eashan Zaman[0m
+  [1;38;5;214mrole        [0m: [38;5;250mFull-Stack Developer · CSE Student @ AIUB[0m
+  [1;38;5;214mlocation    [0m: [38;5;250mDhaka, Bangladesh[0m
+  [1;38;5;214mstack       [0m: [38;5;250mPHP · MySQL · JS · C# · NestJS · TypeORM[0m
+  [1;38;5;214mcerts       [0m: [38;5;250m70+ (Anthropic · Microsoft · Google · Oracle)[0m
+  [1;38;5;214mexploring   [0m: [38;5;250mClaude API · MCP · AI-assisted dev tooling[0m
+  [1;38;5;214mside_quest  [0m: [38;5;250mshipping browser games in vanilla JS[0m
+  [1;38;5;214mstatus      [0m: [38;5;250monline, shipping code, probably debugging something[0m
 ```
 
 <br>
