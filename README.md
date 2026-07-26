@@ -111,7 +111,7 @@ mindmap
 </details>
 
 <details>
-<summary><b>🛢️ Oil Logix</b> — Supply chain client portal + backend API</summary>
+<summary><b>🛢️ Oil Supply & Delivery Manamgement System</b> — Supply chain client portal + backend API</summary>
 <br>
 
 `JS` `NestJS` `TypeORM` `PostgreSQL` `JWT` — Google Maps order tracking, bulk price negotiation
