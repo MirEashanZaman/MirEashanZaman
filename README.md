@@ -1,209 +1,104 @@
 <div align="center">
 
-<!-- Header Banner: Waving gradient with glow -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=260&section=header&text=Mir%20Eashan%20Zaman&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Interactive%20System%20Builder%20%7C%20CSE%20%40%20AIUB&descSize=17&descAlignY=58&descColor=e6f9f4" width="100%"/>
+# Hi, I'm Mir Eashan Zaman 👋
 
-<!-- Typing Animation with Mint Green / Cyberpunk Glow -->
-<a href="https://github.com/MirEashanZaman">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=true&width=835&height=120&lines=Building+Next-Gen+Backends+%E2%9A%A1;Crafting+Interactive+Vanilla+JS+Games+%F0%9F%8E%AE;From+Relational+Schemas+to+Deployed+APIs+%F0%9F%9A%80" alt="Typing SVG"/>
-</a>
+### Full-Stack Developer · CSE Student @ AIUB · Backend & Interactive Systems
 
-<br>
-
-<!-- Premium Glowing Badges -->
-<p>
-  <a href="https://mireashanzaman.github.io/MirEashanZaman-Portfolio/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-00D4AA?style=for-the-badge&logo=googlechrome&logoColor=0d1117&labelColor=c9d1d9" alt="Portfolio"/>
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/mir-eashan-zaman-319474343">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>&nbsp;
-  <a href="https://github.com/MirEashanZaman">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-<!-- Live Visitors & Repos Stats Counter -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=MirEashanZaman&style=flat-square&color=00d4aa&label=profile+visits" alt="Profile Visits"/>&nbsp;
-  <img src="https://img.shields.io/badge/dynamic/json?color=00d4aa&label=repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FMirEashanZaman&style=flat-square" alt="Repos Count"/>&nbsp;
-  <img src="https://img.shields.io/badge/dynamic/json?color=00d4aa&label=followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FMirEashanZaman&style=flat-square" alt="Followers Count"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=3&width=800" width="800"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br>
 
 <table width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <h3>⚡ About Me</h3>
-      <pre><code class="language-yaml">🎓 Studying          : CSE @ AIUB, Dhaka 🇧🇩
-🛠 Stack             : PHP · MySQL · JS · C# · HTML/CSS
-🏆 Certifications    : 70+ (Anthropic · MS · Google · Oracle)
-🧠 Exploring         : Claude API · MCP · GitHub Copilot · Azure AI
-🎮 Side quest        : Browser games in vanilla JS
-💬 Ask me about      : Backend design & database optimization
-⚡ Fun fact          : I build systems by day and games by night!</code></pre>
-    </td>
-    <td width="45%" valign="top" align="center">
-      <h3>📊 GitHub Stats</h3>
-      <a href="https://github.com/MirEashanZaman">
-        <img src="https://github-readme-stats.vercel.app/api?username=MirEashanZaman&show_icons=true&theme=radical&bg_color=0d1117&border_color=00d4aa&icon_color=00d4aa&title_color=00d4aa&text_color=c9d1d9&count_private=true&hide_border=false" width="100%" alt="GitHub Stats"/>
-      </a>
-    </td>
-  </tr>
+<tr>
+<td width="60%" valign="top">
+
+### 🚀 About Me
+
+- 🎓 Computer Science & Engineering student at **AIUB**, Dhaka, Bangladesh
+- 🛠 Building with **PHP, MySQL, JavaScript, C#, NestJS, TypeORM**
+- 🏆 70+ certifications from Anthropic, Microsoft, Google & Oracle
+- 🧠 Currently exploring the **Claude API, MCP, and AI-assisted dev tooling**
+- 🎮 Ship browser games as a creative side project
+- 💬 Ask me about backend architecture & database design
+
+</td>
+<td width="40%" valign="top">
+
+### 📫 Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D4AA?style=for-the-badge&logo=googlechrome&logoColor=black)](https://mireashanzaman.github.io/MirEashanZaman-Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mir-eashan-zaman-319474343)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MirEashanZaman)
+
+</td>
+</tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br>
 
-## 🛠️ Tech Stack & Utilities
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,cs,js,html,css,nestjs,postgres&theme=dark" alt="Languages"/>
-  <br>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,netlify,vscode,windows&theme=dark" alt="Tools"/>
+<p>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br>
 
 ## 💼 Management Systems & Projects
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/MirEashanZaman/Blood_Bridge">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirEashanZaman&repo=Blood_Bridge&theme=radical&bg_color=0d1117&border_color=00d4aa&icon_color=00d4aa&title_color=00d4aa&description_color=c9d1d9&cache_seconds=1800" width="100%" alt="Blood_Bridge"/>
-      </a>
-      <br>
-      <sub>🩸 <b>Blood Bridge</b> — Donor & blood bank management hub</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/MirEashanZaman/Pharmacy_Management_System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirEashanZaman&repo=Pharmacy_Management_System&theme=radical&bg_color=0d1117&border_color=00d4aa&icon_color=00d4aa&title_color=00d4aa&description_color=c9d1d9&cache_seconds=1800" width="100%" alt="Pharmacy_Management_System"/>
-      </a>
-      <br>
-      <sub>💊 <b>Pharmacy Portal</b> — Inventory, billing & stock tracking</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/MirEashanZaman/Hotel-Management-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirEashanZaman&repo=Hotel-Management-System&theme=radical&bg_color=0d1117&border_color=00d4aa&icon_color=00d4aa&title_color=00d4aa&description_color=c9d1d9&cache_seconds=1800" width="100%" alt="Hotel-Management-System"/>
-      </a>
-      <br>
-      <sub>🏨 <b>Hotel Suite</b> — Multi-role booking & payment platform</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/MirEashanZaman/Car-Showroom-Management-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirEashanZaman&repo=Car-Showroom-Management-System&theme=radical&bg_color=0d1117&border_color=00d4aa&icon_color=00d4aa&title_color=00d4aa&description_color=c9d1d9&cache_seconds=1800" width="100%" alt="Car-Showroom-Management-System"/>
-      </a>
-      <br>
-      <sub>🚗 <b>Car Showroom Hub</b> — C# & SQL Server dealership CRM</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/MirEashanZaman/Oil-Supply-And-Delivery-Management-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirEashanZaman&repo=Oil-Supply-And-Delivery-Management-System&theme=radical&bg_color=0d1117&border_color=00d4aa&icon_color=00d4aa&title_color=00d4aa&description_color=c9d1d9&cache_seconds=1800" width="100%" alt="Oil-Supply-And-Delivery-Management-System"/>
-      </a>
-      <br>
-      <sub>🛢️ <b>Oil Logix Frontend</b> — Supply chain client portal</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/MirEashanZaman/Travel-Guide">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirEashanZaman&repo=Travel-Guide&theme=radical&bg_color=0d1117&border_color=00d4aa&icon_color=00d4aa&title_color=00d4aa&description_color=c9d1d9&cache_seconds=1800" width="100%" alt="Travel-Guide"/>
-      </a>
-      <br>
-      <sub>✈️ <b>Travel Guide</b> — Visual journey planner & destination guide</sub>
-    </td>
-  </tr>
-  <!-- Row 4: New Projects (Oil Backend and Chess Game) -->
-  <tr>
-    <td align="center" width="50%">
-      <br>
-      <h3><a href="https://github.com/MirEashanZaman/Oil-Supply-Delivery-Management-System-Backend">🛢️ Oil Logix Backend API</a></h3>
-      <sub>NestJS · TypeORM · PostgreSQL · Bcrypt · Mailer · JWT</sub>
-      <br><br>
-    </td>
-    <td align="center" width="50%">
-      <br>
-      <h3><a href="https://github.com/MirEashanZaman/Chess-Game">♟️ Interactive Chess Game</a></h3>
-      <sub>Multiplayer Chess Simulator · HTML5 · Vanilla JS</sub>
-      <br><br>
-    </td>
-  </tr>
-</table>
+| Project | Description |
+|---|---|
+| 🩸 [**Blood Bridge**](https://github.com/MirEashanZaman/Blood_Bridge) | Donor & blood bank management hub |
+| 💊 [**Pharmacy Management System**](https://github.com/MirEashanZaman/Pharmacy_Management_System) | Inventory, billing & stock tracking |
+| 🏨 [**Hotel Management System**](https://github.com/MirEashanZaman/Hotel-Management-System) | Multi-role booking & payment platform |
+| 🚗 [**Car Showroom Management System**](https://github.com/MirEashanZaman/Car-Showroom-Management-System) | C# & SQL Server dealership CRM |
+| 🛢️ [**Oil Supply & Delivery (Frontend)**](https://github.com/MirEashanZaman/Oil-Supply-And-Delivery-Management-System) | Supply chain client portal |
+| 🛢️ [**Oil Supply & Delivery (Backend)**](https://github.com/MirEashanZaman/Oil-Supply-Delivery-Management-System-Backend) | NestJS · TypeORM · PostgreSQL · JWT API |
+| ✈️ [**Travel Guide**](https://github.com/MirEashanZaman/Travel-Guide) | Visual journey planner & destination guide |
+| ♟️ [**Chess Game**](https://github.com/MirEashanZaman/Chess-Game) | Interactive chess simulator in vanilla JS |
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br>
 
-## 🎮 Arcade Zone — Play Instantly!
+## 🎮 Arcade Zone — Play Instantly
 
-<p align="center">
-  <a href="https://neon-strike01.netlify.app">
-    <img src="https://img.shields.io/badge/🔫_Neon_Strike-PLAY_NOW-ff2d55?style=for-the-badge&labelColor=0d1117" alt="Play Neon Strike"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://sky-dasher.netlify.app">
-    <img src="https://img.shields.io/badge/🌤️_Sky_Dasher-PLAY_NOW-5ac8fa?style=for-the-badge&labelColor=0d1117" alt="Play Sky Dasher"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://snake-game-nostalgia.netlify.app">
-    <img src="https://img.shields.io/badge/🐍_Snake-PLAY_NOW-30d158?style=for-the-badge&labelColor=0d1117" alt="Play Snake"/>
-  </a>
-</p>
+[![Neon Strike](https://img.shields.io/badge/🔫_Neon_Strike-Play_Now-ff2d55?style=for-the-badge)](https://neon-strike01.netlify.app)
+[![Sky Dasher](https://img.shields.io/badge/🌤️_Sky_Dasher-Play_Now-5ac8fa?style=for-the-badge)](https://sky-dasher.netlify.app)
+[![Snake](https://img.shields.io/badge/🐍_Snake-Play_Now-30d158?style=for-the-badge)](https://snake-game-nostalgia.netlify.app)
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/MirEashanZaman/Neon-Strike">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirEashanZaman&repo=Neon-Strike&theme=radical&bg_color=0d1117&border_color=00d4aa&icon_color=00d4aa&title_color=00d4aa&description_color=c9d1d9&cache_seconds=1800" width="100%" alt="Neon Strike"/>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/MirEashanZaman/sky-dasher">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirEashanZaman&repo=sky-dasher&theme=radical&bg_color=0d1117&border_color=00d4aa&icon_color=00d4aa&title_color=00d4aa&description_color=c9d1d9&cache_seconds=1800" width="100%" alt="Sky Dasher"/>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/MirEashanZaman/Snake">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirEashanZaman&repo=Snake&theme=radical&bg_color=0d1117&border_color=00d4aa&icon_color=00d4aa&title_color=00d4aa&description_color=c9d1d9&cache_seconds=1800" width="100%" alt="Snake"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br>
 
 ## 📜 Certifications (70+ total)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Anthropic-Claude_API_·_Claude_Code_·_MCP_Advanced_·_Subagents-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Badges"/>
-  <br><br>
-  <img src="https://img.shields.io/badge/Microsoft-GitHub_Copilot_·_C%23_Foundations_·_Azure_AI_·_NLP-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Badges"/>
-  <br><br>
-  <img src="https://img.shields.io/badge/Google-Gemini_Certified_·_Generative_AI_Studio_·_Image_Gen-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Badges"/>
-  <br><br>
-  <img src="https://img.shields.io/badge/Oracle-AI_for_You:_Training_&_Assessment-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Badges"/>
-</p>
+![Anthropic](https://img.shields.io/badge/Anthropic-Claude_API_·_Claude_Code_·_MCP-191919?style=flat-square)
+![Microsoft](https://img.shields.io/badge/Microsoft-Copilot_·_C%23_·_Azure_AI-0078D4?style=flat-square)
+![Google](https://img.shields.io/badge/Google-Gemini_·_Generative_AI_Studio-4285F4?style=flat-square)
+![Oracle](https://img.shields.io/badge/Oracle-AI_for_You-F80000?style=flat-square)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br>
 
-## 📊 Developer Metrics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirEashanZaman&layout=compact&theme=radical&bg_color=0d1117&border_color=00d4aa&title_color=00d4aa&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MirEashanZaman&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirEashanZaman&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MirEashanZaman&bg_color=0d1117&color=00d4aa&line=00d4aa&point=c9d1d9&area=true&area_color=00d4aa&hide_border=true" width="100%" alt="Activity Graph"/>
-</p>
+<br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer Quote"/>
-</p>
-
-<!-- Footer Banner: Matching waving gradient -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer" width="100%"/>
+
+⭐ **Thanks for stopping by!**
+
 </div>
