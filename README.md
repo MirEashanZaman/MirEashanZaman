@@ -86,6 +86,11 @@
     <td>JS · HTML/CSS</td>
     <td>Visual journey planner & destination guide</td>
   </tr>
+  <tr>
+    <td>♟️ <a href="https://chess-master-play.netlify.app/"><b>Chess Master</b></a></td>
+    <td>Vanilla JS · HTML5</td>
+    <td>Minimax AI, multiple themes, Lichess SVG pieces</td>
+  </tr>
 </table>
 
 <br>
@@ -96,6 +101,7 @@
   <a href="https://neon-strike01.netlify.app"><img src="https://img.shields.io/badge/🔫_Neon_Strike-PLAY_NOW-ff2d55?style=for-the-badge"/></a>
   <a href="https://sky-dasher.netlify.app"><img src="https://img.shields.io/badge/🌤️_Sky_Dasher-PLAY_NOW-5ac8fa?style=for-the-badge"/></a>
   <a href="https://snake-game-nostalgia.netlify.app"><img src="https://img.shields.io/badge/🐍_Snake-PLAY_NOW-30d158?style=for-the-badge"/></a>
+  <a href="https://chess-master-play.netlify.app/"><img src="https://img.shields.io/badge/♟️_Chess-PLAY_NOW-8a2be2?style=for-the-badge"/></a>
 </p>
 
 <br>
