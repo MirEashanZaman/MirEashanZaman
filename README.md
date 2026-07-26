@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MirEashanZaman&theme=radical&hide_border=true" width="70%"/>
+  <img src="https://streak-stats.demolab.com/?user=MirEashanZaman&theme=radical&hide_border=true" width="70%"/>
 </p>
 
 <p align="center">
@@ -56,32 +56,51 @@
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirEashanZaman&repo=Blood_Bridge&theme=radical&hide_border=true"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirEashanZaman&repo=Pharmacy_Management_System&theme=radical&hide_border=true"/>
-    </td>
+    <th align="left">Project</th>
+    <th align="left">Stack</th>
+    <th align="left">Description</th>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirEashanZaman&repo=Hotel-Management-System&theme=radical&hide_border=true"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirEashanZaman&repo=Car-Showroom-Management-System&theme=radical&hide_border=true"/>
-    </td>
+    <td>🩸 <a href="https://github.com/MirEashanZaman/Blood_Bridge"><b>Blood Bridge</b></a></td>
+    <td>PHP · MySQL</td>
+    <td>Donor & blood bank management hub</td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirEashanZaman&repo=Oil-Supply-And-Delivery-Management-System&theme=radical&hide_border=true"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirEashanZaman&repo=Travel-Guide&theme=radical&hide_border=true"/>
-    </td>
+    <td>💊 <a href="https://github.com/MirEashanZaman/Pharmacy_Management_System"><b>Pharmacy Management System</b></a></td>
+    <td>PHP · MySQL</td>
+    <td>Inventory, billing & stock tracking</td>
+  </tr>
+  <tr>
+    <td>🏨 <a href="https://github.com/MirEashanZaman/Hotel-Management-System"><b>Hotel Management System</b></a></td>
+    <td>PHP · MySQL</td>
+    <td>Multi-role booking & payment platform</td>
+  </tr>
+  <tr>
+    <td>🚗 <a href="https://github.com/MirEashanZaman/Car-Showroom-Management-System"><b>Car Showroom Management System</b></a></td>
+    <td>C# · SQL Server</td>
+    <td>Dealership CRM</td>
+  </tr>
+  <tr>
+    <td>🛢️ <a href="https://github.com/MirEashanZaman/Oil-Supply-And-Delivery-Management-System"><b>Oil Supply & Delivery (Frontend)</b></a></td>
+    <td>JS · HTML/CSS</td>
+    <td>Supply chain client portal with Google Maps tracking</td>
+  </tr>
+  <tr>
+    <td>🛢️ <a href="https://github.com/MirEashanZaman/Oil-Supply-Delivery-Management-System-Backend"><b>Oil Logix Backend API</b></a></td>
+    <td>NestJS · TypeORM · PostgreSQL · JWT</td>
+    <td>REST API with auth & mailer service</td>
+  </tr>
+  <tr>
+    <td>✈️ <a href="https://github.com/MirEashanZaman/Travel-Guide"><b>Travel Guide</b></a></td>
+    <td>JS · HTML/CSS</td>
+    <td>Visual journey planner & destination guide</td>
+  </tr>
+  <tr>
+    <td>♟️ <a href="https://github.com/MirEashanZaman/Chess-Game"><b>Interactive Chess Game</b></a></td>
+    <td>Vanilla JS · HTML5</td>
+    <td>Minimax AI, multiple themes, Lichess SVG pieces</td>
   </tr>
 </table>
-
-<p align="center"><sub>🛢️ Oil Logix Backend (NestJS · TypeORM · PostgreSQL · JWT) · ♟️ Interactive Chess Game (Vanilla JS) — see pinned repos on GitHub</sub></p>
 
 <br>
 
