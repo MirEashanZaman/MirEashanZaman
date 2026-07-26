@@ -46,10 +46,10 @@ mindmap
       Interactive Games
     Systems Shipped
       Blood Bridge
-      Pharmacy Mgmt
-      Hotel Mgmt
-      Car Showroom
-      Oil Logix
+      Pharmacy Manamgement System
+      Hotel Manamgement System
+      Car Showroom Manamgement System
+      Oil Supply & Delivery Manamgement System
       Travel Guide
     Arcade
       Neon Strike
