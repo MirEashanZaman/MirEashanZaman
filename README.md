@@ -38,16 +38,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MirEashanZaman&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirEashanZaman&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=MirEashanZaman&theme=radical&hide_border=true" width="70%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MirEashanZaman&theme=radical&no-frame=true&row=1&column=6"/>
 </p>
 
 <br>
@@ -94,11 +85,6 @@
     <td>✈️ <a href="https://github.com/MirEashanZaman/Travel-Guide"><b>Travel Guide</b></a></td>
     <td>JS · HTML/CSS</td>
     <td>Visual journey planner & destination guide</td>
-  </tr>
-  <tr>
-    <td>♟️ <a href="https://github.com/MirEashanZaman/Chess-Game"><b>Interactive Chess Game</b></a></td>
-    <td>Vanilla JS · HTML5</td>
-    <td>Minimax AI, multiple themes, Lichess SVG pieces</td>
   </tr>
 </table>
 
