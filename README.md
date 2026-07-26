@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Mir%20Eashan%20Zaman&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Interactive%20System%20Builder%20%7C%20CSE%20%40%20AIUB&descSize=16&descAlignY=60&descColor=e6f9f4" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Next-Gen+Backends+%E2%9A%A1;Crafting+Interactive+Vanilla+JS+Games+%F0%9F%8E%AE;From+Relational+Schemas+to+Deployed+APIs+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Next-Gen+Backends+%E2%9A%A1;Crafting+Interactive+Vanilla+JS+Games+%F0%9F%8E%AE;From+Relational+Schemas+to+Deployed+APIs+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <p>
 <a href="https://mireashanzaman.github.io/MirEashanZaman-Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-00D4AA?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>
@@ -12,17 +12,54 @@
 
 </div>
 
----
+<br>
 
-### ⚡ About Me
+```ansi
+┌─[eashan@aiub]─[~]
+└──╼ $ whoami --verbose
 
-```yaml
-🎓 Studying          : CSE @ AIUB, Dhaka 🇧🇩
-🛠 Stack             : PHP · MySQL · JS · C# · NestJS · TypeORM
-🏆 Certifications    : 70+ (Anthropic · Microsoft · Google · Oracle)
-🧠 Exploring         : Claude API · MCP · AI-assisted dev tooling
-🎮 Side quest        : Shipping browser games in vanilla JS
-💬 Ask me about      : Backend architecture & database design
+  name        : Mir Eashan Zaman
+  role        : Full-Stack Developer · CSE Student @ AIUB
+  location    : Dhaka, Bangladesh
+  stack       : PHP · MySQL · JS · C# · NestJS · TypeORM
+  certs       : 70+ (Anthropic · Microsoft · Google · Oracle)
+  exploring   : Claude API · MCP · AI-assisted dev tooling
+  side_quest  : shipping browser games in vanilla JS
+  status      : online, shipping code, probably debugging something 🐛
+```
+
+<br>
+
+## 🧬 How It All Connects
+
+```mermaid
+mindmap
+  root((Eashan))
+    Backend
+      PHP + MySQL
+      NestJS + TypeORM
+      PostgreSQL
+      REST APIs & Auth
+    Frontend
+      Vanilla JS
+      HTML5 / CSS3
+      Interactive Games
+    Systems Shipped
+      Blood Bridge
+      Pharmacy Mgmt
+      Hotel Mgmt
+      Car Showroom
+      Oil Logix
+      Travel Guide
+    Arcade
+      Neon Strike
+      Sky Dasher
+      Snake
+      Chess Master
+    Currently Exploring
+      Claude API
+      MCP
+      AI Dev Tooling
 ```
 
 <br>
@@ -45,53 +82,55 @@
 
 ## 💼 Management Systems & Projects
 
-<table align="center" width="100%">
-  <tr>
-    <th align="left">Project</th>
-    <th align="left">Stack</th>
-    <th align="left">Description</th>
-  </tr>
-  <tr>
-    <td>🩸 <a href="https://github.com/MirEashanZaman/Blood_Bridge"><b>Blood Bridge</b></a></td>
-    <td>PHP · MySQL</td>
-    <td>Donor & blood bank management hub</td>
-  </tr>
-  <tr>
-    <td>💊 <a href="https://github.com/MirEashanZaman/Pharmacy_Management_System"><b>Pharmacy Management System</b></a></td>
-    <td>PHP · MySQL</td>
-    <td>Inventory, billing & stock tracking</td>
-  </tr>
-  <tr>
-    <td>🏨 <a href="https://github.com/MirEashanZaman/Hotel-Management-System"><b>Hotel Management System</b></a></td>
-    <td>PHP · MySQL</td>
-    <td>Multi-role booking & payment platform</td>
-  </tr>
-  <tr>
-    <td>🚗 <a href="https://github.com/MirEashanZaman/Car-Showroom-Management-System"><b>Car Showroom Management System</b></a></td>
-    <td>C# · SQL Server</td>
-    <td>Dealership CRM</td>
-  </tr>
-  <tr>
-    <td>🛢️ <a href="https://github.com/MirEashanZaman/Oil-Supply-And-Delivery-Management-System"><b>Oil Supply & Delivery (Frontend)</b></a></td>
-    <td>JS · HTML/CSS</td>
-    <td>Supply chain client portal with Google Maps tracking</td>
-  </tr>
-  <tr>
-    <td>🛢️ <a href="https://github.com/MirEashanZaman/Oil-Supply-Delivery-Management-System-Backend"><b>Oil Logix Backend API</b></a></td>
-    <td>NestJS · TypeORM · PostgreSQL · JWT</td>
-    <td>REST API with auth & mailer service</td>
-  </tr>
-  <tr>
-    <td>✈️ <a href="https://github.com/MirEashanZaman/Travel-Guide"><b>Travel Guide</b></a></td>
-    <td>JS · HTML/CSS</td>
-    <td>Visual journey planner & destination guide</td>
-  </tr>
-  <tr>
-    <td>♟️ <a href="https://chess-master-play.netlify.app/"><b>Chess Master</b></a></td>
-    <td>Vanilla JS · HTML5</td>
-    <td>Minimax AI, multiple themes, Lichess SVG pieces</td>
-  </tr>
-</table>
+<details open>
+<summary><b>🩸 Blood Bridge</b> — Donor & blood bank management hub</summary>
+<br>
+
+`PHP` `MySQL` — [View Repo](https://github.com/MirEashanZaman/Blood_Bridge)
+</details>
+
+<details>
+<summary><b>💊 Pharmacy Management System</b> — Inventory, billing & stock tracking</summary>
+<br>
+
+`PHP` `MySQL` — [View Repo](https://github.com/MirEashanZaman/Pharmacy_Management_System)
+</details>
+
+<details>
+<summary><b>🏨 Hotel Management System</b> — Multi-role booking & payment platform</summary>
+<br>
+
+`PHP` `MySQL` — [View Repo](https://github.com/MirEashanZaman/Hotel-Management-System)
+</details>
+
+<details>
+<summary><b>🚗 Car Showroom Management System</b> — Dealership CRM</summary>
+<br>
+
+`C#` `SQL Server` — [View Repo](https://github.com/MirEashanZaman/Car-Showroom-Management-System)
+</details>
+
+<details>
+<summary><b>🛢️ Oil Logix</b> — Supply chain client portal + backend API</summary>
+<br>
+
+`JS` `NestJS` `TypeORM` `PostgreSQL` `JWT` — Google Maps order tracking, bulk price negotiation
+[Frontend](https://github.com/MirEashanZaman/Oil-Supply-And-Delivery-Management-System) · [Backend API](https://github.com/MirEashanZaman/Oil-Supply-Delivery-Management-System-Backend)
+</details>
+
+<details>
+<summary><b>✈️ Travel Guide</b> — Visual journey planner & destination guide</summary>
+<br>
+
+`JS` `HTML/CSS` — [View Repo](https://github.com/MirEashanZaman/Travel-Guide)
+</details>
+
+<details>
+<summary><b>♟️ Chess Master</b> — Minimax AI, multiple themes, Lichess SVG pieces</summary>
+<br>
+
+`Vanilla JS` `HTML5` — [Play Now](https://chess-master-play.netlify.app/) · [View Repo](https://github.com/MirEashanZaman/Chess-Game)
+</details>
 
 <br>
 
@@ -101,7 +140,7 @@
   <a href="https://neon-strike01.netlify.app"><img src="https://img.shields.io/badge/🔫_Neon_Strike-PLAY_NOW-ff2d55?style=for-the-badge"/></a>
   <a href="https://sky-dasher.netlify.app"><img src="https://img.shields.io/badge/🌤️_Sky_Dasher-PLAY_NOW-5ac8fa?style=for-the-badge"/></a>
   <a href="https://snake-game-nostalgia.netlify.app"><img src="https://img.shields.io/badge/🐍_Snake-PLAY_NOW-30d158?style=for-the-badge"/></a>
-  <a href="https://chess-master-play.netlify.app/"><img src="https://img.shields.io/badge/♟️_Chess-PLAY_NOW-8a2be2?style=for-the-badge"/></a>
+  <a href="https://chess-master-play.netlify.app/"><img src="https://img.shields.io/badge/♟️_Chess_Master-PLAY_NOW-8a2be2?style=for-the-badge"/></a>
 </p>
 
 <br>
@@ -116,5 +155,11 @@
 </p>
 
 <br>
+
+<div align="center">
+
+### 💭 "Ship it, debug it, ship it better."
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer" width="100%"/>
