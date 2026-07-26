@@ -118,6 +118,23 @@
       <sub>✈️ <b>Travel Guide</b> — Visual journey planner & destination guide</sub>
     </td>
   </tr>
+  <!-- Row 4: New Projects -->
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/MirEashanZaman/Oil-Supply-Delivery-Management-System-Backend">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirEashanZaman&repo=Oil-Supply-Delivery-Management-System-Backend&theme=radical&bg_color=0d1117&border_color=00d4aa&icon_color=00d4aa&title_color=00d4aa&description_color=c9d1d9&cache_seconds=1800" width="100%" alt="Oil-Supply-Delivery-Management-System-Backend"/>
+      </a>
+      <br>
+      <sub>🛢️ <b>Oil Logix Backend</b> — NestJS, TypeORM & PostgreSQL API</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/MirEashanZaman/Chess-Game">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirEashanZaman&repo=Chess-Game&theme=radical&bg_color=0d1117&border_color=00d4aa&icon_color=00d4aa&title_color=00d4aa&description_color=c9d1d9&cache_seconds=1800" width="100%" alt="Chess-Game"/>
+      </a>
+      <br>
+      <sub>♟️ <b>Chess Game</b> — Interactive web-based chess simulator</sub>
+    </td>
+  </tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
