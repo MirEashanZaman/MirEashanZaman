@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Header Banner: Modern Slice Animation -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0d1117&customColorList=10&height=200&section=header&text=Mir%20Eashan%20Zaman&fontSize=50&fontColor=00D4AA&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Interactive%20System%20Builder%20%7C%20CSE%20%40%20AIUB&descSize=16&descAlignY=65&descColor=8b949e" width="100%"/>
+<!-- Header Banner: Waving gradient with glow -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=260&section=header&text=Mir%20Eashan%20Zaman&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Interactive%20System%20Builder%20%7C%20CSE%20%40%20AIUB&descSize=17&descAlignY=58&descColor=e6f9f4" width="100%"/>
 
 <!-- Typing Animation with Mint Green / Cyberpunk Glow -->
 <a href="https://github.com/MirEashanZaman">
@@ -203,6 +203,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer Quote"/>
 </p>
 
-<!-- Footer Divider -->
-<hr style="border: 1px solid #00d4aa;">
+<!-- Footer Banner: Matching waving gradient -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer" width="100%"/>
 </div>
