@@ -33,33 +33,38 @@
 ## 🧬 How It All Connects
 
 ```mermaid
-mindmap
-  root((Eashan))
-    Backend
-      PHP + MySQL
-      NestJS + TypeORM
-      PostgreSQL
-      REST APIs & Auth
-    Frontend
-      Vanilla JS
-      HTML5 / CSS3
-      Interactive Games
-    Systems Shipped
-      Blood Bridge
-      Pharmacy Manamgement System
-      Hotel Manamgement System
-      Car Showroom Manamgement System
-      Oil Supply & Delivery Manamgement System
-      Travel Guide
-    Arcade
-      Neon Strike
-      Sky Dasher
-      Snake
-      Chess Master
-    Currently Exploring
-      Claude API
-      MCP
-      AI Dev Tooling
+flowchart TD
+    Eashan((Eashan))
+
+    Eashan --> Backend[Backend]
+    Backend --> B1[PHP + MySQL]
+    Backend --> B2[NestJS + TypeORM]
+    Backend --> B3[PostgreSQL]
+    Backend --> B4[REST APIs & Auth]
+
+    Eashan --> Frontend[Frontend]
+    Frontend --> F1[Vanilla JS]
+    Frontend --> F2[HTML5 / CSS3]
+    Frontend --> F3[Interactive Games]
+
+    Eashan --> Systems[Systems Shipped]
+    Systems --> S1[Blood Bridge]
+    Systems --> S2[Pharmacy Management System]
+    Systems --> S3[Hotel Management System]
+    Systems --> S4[Car Showroom Management System]
+    Systems --> S5[Oil Supply & Delivery Management System]
+    Systems --> S6[Travel Guide]
+
+    Eashan --> Arcade[Arcade]
+    Arcade --> A1[Neon Strike]
+    Arcade --> A2[Sky Dasher]
+    Arcade --> A3[Snake]
+    Arcade --> A4[Chess Master]
+
+    Eashan --> Exploring[Currently Exploring]
+    Exploring --> E1[Claude API]
+    Exploring --> E2[MCP]
+    Exploring --> E3[AI Dev Tooling]
 ```
 
 <br>
@@ -111,7 +116,7 @@ mindmap
 </details>
 
 <details>
-<summary><b>🛢️ Oil Supply & Delivery Manamgement System</b> — Supply chain client portal + backend API</summary>
+<summary><b>🛢️ Oil Supply & Delivery Management System</b> — Supply chain client portal + backend API</summary>
 <br>
 
 `JS` `NestJS` `TypeORM` `PostgreSQL` `JWT` — Google Maps order tracking, bulk price negotiation
