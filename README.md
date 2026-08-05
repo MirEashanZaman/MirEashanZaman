@@ -110,21 +110,17 @@ flowchart LR
 
 <div align="center">
 
-<a href="https://github.com/MirEashanZaman">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=MirEashanZaman&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    height="180"
-    alt="Mir Eashan Zaman GitHub statistics"
-  />
-</a>
+<img
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MirEashanZaman&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+  height="180"
+  alt="GitHub Statistics"
+/>
 
-<a href="https://github.com/MirEashanZaman">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirEashanZaman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    height="180"
-    alt="Mir Eashan Zaman most used programming languages"
-  />
-</a>
+<img
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MirEashanZaman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  height="180"
+  alt="Most Used Languages"
+/>
 
 </div>
 
