@@ -1,170 +1,284 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Mir%20Eashan%20Zaman&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Interactive%20System%20Builder%20%7C%20CSE%20%40%20AIUB&descSize=16&descAlignY=60&descColor=e6f9f4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Mir%20Eashan%20Zaman&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20System%20Builder%20%7C%20CSE%20Student%20at%20AIUB&descSize=16&descAlignY=60&color=0:0f172a,50:0f766e,100:00d4aa" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Next-Gen+Backends+%E2%9A%A1;Crafting+Interactive+Vanilla+JS+Games+%F0%9F%8E%AE;From+Relational+Schemas+to+Deployed+APIs+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3200&pause=900&color=00D4AA&center=true&vCenter=true&width=850&lines=Building+Reliable+Backends+and+REST+APIs+%E2%9A%A1;Creating+Interactive+Browser+Games+%F0%9F%8E%AE;Turning+Ideas+Into+Working+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 
-<p>
-<a href="https://mireashanzaman.github.io/MirEashanZaman-Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-00D4AA?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>
-<a href="https://www.linkedin.com/in/mir-eashan-zaman-319474343"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/MirEashanZaman"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+<br/>
+
+<a href="https://mireashanzaman.github.io/MirEashanZaman-Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-00D4AA?style=for-the-badge&logo=googlechrome&logoColor=0f172a" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/mir-eashan-zaman-319474343">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/MirEashanZaman">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 </div>
 
-<br>
+<br/>
 
-```yaml
-┌─[eashan@aiub]─[~]
-└──╼ $ whoami --verbose
+## 👋 About Me
 
-  name        : Mir Eashan Zaman
-  role        : Full-Stack Developer · CSE Student @ AIUB
-  location    : Dhaka, Bangladesh
-  stack       : PHP · MySQL · JS · C# · NestJS · TypeORM
-  certs       : 70+ (Anthropic · Microsoft · Google · Oracle)
-  exploring   : Claude API · MCP · AI-assisted dev tooling
-  side_quest  : shipping browser games in vanilla JS
-  status      : online, shipping code, probably debugging something
+```text
+$ whoami
+
+Name       : Mir Eashan Zaman
+Role       : Full-Stack Developer and CSE Student
+Location   : Dhaka, Bangladesh
+
+Backend    : PHP, MySQL, NestJS, TypeORM, PostgreSQL
+Frontend   : JavaScript, HTML5, CSS3
+Languages  : PHP, JavaScript, C#
+Focus      : REST APIs, authentication, database systems
+Exploring  : Claude API, MCP, AI-assisted development
+Building   : Management systems and browser games
+Status     : Building, testing, debugging, and shipping
 ```
 
-<br>
+I enjoy turning ideas into complete applications, from database design and backend APIs to interactive user experiences. My projects include business management systems, role-based platforms, delivery systems, and browser games built with vanilla JavaScript.
 
-## 🧬 How It All Connects
+<br/>
+
+## 🧭 Development Map
 
 ```mermaid
-flowchart TD
-    Eashan((Eashan))
+flowchart LR
+    A[Mir Eashan Zaman]
 
-    Eashan --> Backend[Backend]
-    Backend --> B1[PHP + MySQL]
-    Backend --> B2[NestJS + TypeORM]
-    Backend --> B3[PostgreSQL]
-    Backend --> B4[REST APIs & Auth]
+    A --> B[Backend Development]
+    B --> B1[PHP and MySQL]
+    B --> B2[NestJS and TypeORM]
+    B --> B3[PostgreSQL]
+    B --> B4[REST APIs and JWT]
 
-    Eashan --> Frontend[Frontend]
-    Frontend --> F1[Vanilla JS]
-    Frontend --> F2[HTML5 / CSS3]
-    Frontend --> F3[Interactive Games]
+    A --> C[Frontend Development]
+    C --> C1[JavaScript]
+    C --> C2[HTML5 and CSS3]
+    C --> C3[Interactive Web Apps]
 
-    Eashan --> Systems[Systems Shipped]
-    Systems --> S1[Blood Bridge]
-    Systems --> S2[Pharmacy Management System]
-    Systems --> S3[Hotel Management System]
-    Systems --> S4[Car Showroom Management System]
-    Systems --> S5[Oil Supply & Delivery Management System]
-    Systems --> S6[Travel Guide]
+    A --> D[Projects]
+    D --> D1[Management Systems]
+    D --> D2[Browser Games]
 
-    Eashan --> Arcade[Arcade]
-    Arcade --> A1[Neon Strike]
-    Arcade --> A2[Sky Dasher]
-    Arcade --> A3[Snake]
-    Arcade --> A4[Chess Master]
-
-    Eashan --> Exploring[Currently Exploring]
-    Exploring --> E1[Claude API]
-    Exploring --> E2[MCP]
-    Exploring --> E3[AI Dev Tooling]
+    A --> E[Current Learning]
+    E --> E1[Claude API]
+    E --> E2[Model Context Protocol]
+    E --> E3[AI Development Tools]
 ```
 
-<br>
+<br/>
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,mysql,js,cs,html,css,nestjs,postgres,git,github,netlify,vscode&theme=dark"/>
-</p>
-
-<br>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MirEashanZaman&theme=radical&hide_border=true" width="70%"/>
-</p>
-
-<br>
-
-## 💼 Management Systems & Projects
-
-<details open>
-<summary><b>🩸 Blood Bridge</b> — Donor & blood bank management hub</summary>
-<br>
-
-`PHP` `MySQL` — [View Repo](https://github.com/MirEashanZaman/Blood_Bridge)
-</details>
-
-<details>
-<summary><b>💊 Pharmacy Management System</b> — Inventory, billing & stock tracking</summary>
-<br>
-
-`PHP` `MySQL` — [View Repo](https://github.com/MirEashanZaman/Pharmacy_Management_System)
-</details>
-
-<details>
-<summary><b>🏨 Hotel Management System</b> — Multi-role booking & payment platform</summary>
-<br>
-
-`PHP` `MySQL` — [View Repo](https://github.com/MirEashanZaman/Hotel-Management-System)
-</details>
-
-<details>
-<summary><b>🚗 Car Showroom Management System</b> — Dealership CRM</summary>
-<br>
-
-`C#` `SQL Server` — [View Repo](https://github.com/MirEashanZaman/Car-Showroom-Management-System)
-</details>
-
-<details>
-<summary><b>🛢️ Oil Supply & Delivery Management System</b> — Supply chain client portal + backend API</summary>
-<br>
-
-`JS` `NestJS` `TypeORM` `PostgreSQL` `JWT` — Google Maps order tracking, bulk price negotiation
-[Frontend](https://github.com/MirEashanZaman/Oil-Supply-And-Delivery-Management-System) · [Backend API](https://github.com/MirEashanZaman/Oil-Supply-Delivery-Management-System-Backend)
-</details>
-
-<details>
-<summary><b>✈️ Travel Guide</b> — Visual journey planner & destination guide</summary>
-<br>
-
-`JS` `HTML/CSS` — [View Repo](https://github.com/MirEashanZaman/Travel-Guide)
-</details>
-
-<details>
-<summary><b>♟️ Chess Master</b> — Minimax AI, multiple themes, Lichess SVG pieces</summary>
-<br>
-
-`Vanilla JS` `HTML5` — [Play Now](https://chess-master-play.netlify.app/) · [View Repo](https://github.com/MirEashanZaman/Chess-Game)
-</details>
-
-<br>
-
-## 🎮 Arcade Zone — Play Instantly
-
-<p align="center">
-  <a href="https://neon-strike01.netlify.app"><img src="https://img.shields.io/badge/🔫_Neon_Strike-PLAY_NOW-ff2d55?style=for-the-badge"/></a>
-  <a href="https://sky-dasher.netlify.app"><img src="https://img.shields.io/badge/🌤️_Sky_Dasher-PLAY_NOW-5ac8fa?style=for-the-badge"/></a>
-  <a href="https://snake-game-nostalgia.netlify.app"><img src="https://img.shields.io/badge/🐍_Snake-PLAY_NOW-30d158?style=for-the-badge"/></a>
-  <a href="https://chess-master-play.netlify.app/"><img src="https://img.shields.io/badge/♟️_Chess_Master-PLAY_NOW-8a2be2?style=for-the-badge"/></a>
-</p>
-
-<br>
-
-## 📜 Certifications (70+ total)
-
-<p align="center">
-<img src="https://img.shields.io/badge/Anthropic-Claude_API_·_Claude_Code_·_MCP_Advanced_·_Subagents-191919?style=for-the-badge&logo=anthropic&logoColor=white"/><br><br>
-<img src="https://img.shields.io/badge/Microsoft-Copilot_·_C%23_Foundations_·_Azure_AI_·_NLP-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/><br><br>
-<img src="https://img.shields.io/badge/Google-Gemini_·_Generative_AI_Studio_·_Image_Gen-4285F4?style=for-the-badge&logo=google&logoColor=white"/><br><br>
-<img src="https://img.shields.io/badge/Oracle-AI_for_You_Training_&_Assessment-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-</p>
-
-<br>
-
 <div align="center">
 
-### 💭 "Ship it, debug it, ship it better."
+<img src="https://skillicons.dev/icons?i=php,mysql,js,cs,html,css,nestjs,postgres,git,github,netlify,vscode&theme=dark" alt="Tech Stack"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer" width="100%"/>
+<br/>
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=MirEashanZaman&theme=radical&hide_border=true" width="72%" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
+# 💼 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🩸 Blood Bridge
+
+A donor and blood bank management platform designed to organize donor information and improve blood availability workflows.
+
+**Stack:** `PHP` `MySQL`
+
+<a href="https://github.com/MirEashanZaman/Blood_Bridge">
+  <img src="https://img.shields.io/badge/View_Repository-00D4AA?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💊 Pharmacy Management System
+
+A pharmacy platform with inventory management, billing, medicine tracking, and stock monitoring.
+
+**Stack:** `PHP` `MySQL`
+
+<a href="https://github.com/MirEashanZaman/Pharmacy_Management_System">
+  <img src="https://img.shields.io/badge/View_Repository-00D4AA?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🏨 Hotel Management System
+
+A multi-role hotel platform supporting bookings, customer workflows, and payment management.
+
+**Stack:** `PHP` `MySQL`
+
+<a href="https://github.com/MirEashanZaman/Hotel-Management-System">
+  <img src="https://img.shields.io/badge/View_Repository-00D4AA?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚗 Car Showroom Management
+
+A dealership management system for handling customer information, vehicles, and showroom operations.
+
+**Stack:** `C#` `SQL Server`
+
+<a href="https://github.com/MirEashanZaman/Car-Showroom-Management-System">
+  <img src="https://img.shields.io/badge/View_Repository-00D4AA?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🛢️ Oil Supply and Delivery
+
+A supply-chain platform with a client portal, backend API, order workflows, location features, and bulk-price negotiation.
+
+**Stack:** `JavaScript` `NestJS` `TypeORM` `PostgreSQL` `JWT`
+
+<a href="https://github.com/MirEashanZaman/Oil-Supply-And-Delivery-Management-System">
+  <img src="https://img.shields.io/badge/Frontend-00D4AA?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+<a href="https://github.com/MirEashanZaman/Oil-Supply-Delivery-Management-System-Backend">
+  <img src="https://img.shields.io/badge/Backend_API-0f766e?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ✈️ Travel Guide
+
+A visual destination guide and journey-planning experience built for exploring travel locations.
+
+**Stack:** `JavaScript` `HTML5` `CSS3`
+
+<a href="https://github.com/MirEashanZaman/Travel-Guide">
+  <img src="https://img.shields.io/badge/View_Repository-00D4AA?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+# 🎮 Arcade
+
+<div align="center">
+
+### Browser games built with vanilla JavaScript
+
+<a href="https://neon-strike01.netlify.app">
+  <img src="https://img.shields.io/badge/Neon_Strike-Play_Now-ff2d55?style=for-the-badge"/>
+</a>
+
+<a href="https://sky-dasher.netlify.app">
+  <img src="https://img.shields.io/badge/Sky_Dasher-Play_Now-5ac8fa?style=for-the-badge"/>
+</a>
+
+<a href="https://snake-game-nostalgia.netlify.app">
+  <img src="https://img.shields.io/badge/Snake-Play_Now-30d158?style=for-the-badge"/>
+</a>
+
+<a href="https://chess-master-play.netlify.app/">
+  <img src="https://img.shields.io/badge/Chess_Master-Play_Now-8a2be2?style=for-the-badge"/>
+</a>
+
+<br/><br/>
+
+### ♟️ Chess Master
+
+A browser-based chess game featuring multiple themes, SVG pieces, and a Minimax-powered AI opponent.
+
+`Vanilla JavaScript` `HTML5` `CSS3` `Minimax`
+
+<a href="https://chess-master-play.netlify.app/">
+  <img src="https://img.shields.io/badge/Play_Chess-8a2be2?style=for-the-badge&logo=lichess&logoColor=white"/>
+</a>
+
+<a href="https://github.com/MirEashanZaman/Chess-Game">
+  <img src="https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+## 📜 Certifications
+
+<div align="center">
+
+**70+ completed courses and certifications across AI, cloud, programming, and developer tools**
+
+<br/>
+
+<img src="https://img.shields.io/badge/Anthropic-Claude_API%20%C2%B7%20Claude_Code%20%C2%B7%20MCP-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Microsoft-Copilot%20%C2%B7%20C%23%20%C2%B7%20Azure_AI%20%C2%B7%20NLP-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Google-Gemini%20%C2%B7%20Generative_AI%20%C2%B7%20AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Oracle-AI_for_You_Training-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+</div>
+
+<br/>
+
+## 🚀 Currently Exploring
+
+```text
+Claude API
+Model Context Protocol (MCP)
+AI-assisted development workflows
+Agentic development tools
+Modern backend architecture
+```
+
+<br/>
+
+<div align="center">
+
+### 💭 “Build it. Test it. Improve it. Ship it.”
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=MirEashanZaman&label=Profile%20Views&color=00d4aa&style=for-the-badge" alt="Profile Views"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0f172a,50:0f766e,100:00d4aa" width="100%"/>
