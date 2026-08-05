@@ -110,17 +110,34 @@ flowchart LR
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MirEashanZaman&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-  height="180"
-  alt="GitHub Statistics"
-/>
+<a href="https://github.com/MirEashanZaman?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/Explore-My_Repositories-00D4AA?style=for-the-badge&logo=github&logoColor=black"
+    alt="Explore My GitHub Repositories"
+  />
+</a>
 
-<img
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MirEashanZaman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  height="180"
-  alt="Most Used Languages"
-/>
+<a href="https://github.com/MirEashanZaman?tab=stars">
+  <img
+    src="https://img.shields.io/badge/View-Starred_Projects-0F766E?style=for-the-badge&logo=github&logoColor=white"
+    alt="View Starred Projects"
+  />
+</a>
+
+<a href="https://github.com/MirEashanZaman?tab=followers">
+  <img
+    src="https://img.shields.io/github/followers/MirEashanZaman?style=for-the-badge&logo=github&label=Followers&color=00D4AA"
+    alt="GitHub Followers"
+  />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🚀 Building systems, APIs, and interactive web experiences
 
 </div>
 
