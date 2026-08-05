@@ -1,5 +1,3 @@
-
-````md
 <div align="center">
 
 <img
@@ -58,7 +56,7 @@ Focus      : REST APIs, authentication, database systems
 Exploring  : Claude API, MCP, AI-assisted development
 Building   : Management systems and browser games
 Status     : Building, testing, debugging, and shipping
-````
+```
 
 I build complete web applications, from relational database design and backend APIs to responsive interfaces and interactive browser experiences.
 
@@ -70,7 +68,6 @@ My work includes business management systems, multi-role platforms, delivery sys
 
 ```mermaid
 flowchart LR
-
     A[Mir Eashan Zaman]
 
     A --> B[Backend]
@@ -101,8 +98,8 @@ flowchart LR
 <div align="center">
 
 <img
-src="https://skillicons.dev/icons?i=php,mysql,js,cs,html,css,nestjs,postgres,git,github,netlify,vscode&theme=dark"
-alt="Technology Stack"
+  src="https://skillicons.dev/icons?i=php,mysql,js,cs,html,css,nestjs,postgres,git,github,netlify,vscode&theme=dark"
+  alt="Technology Stack"
 />
 
 </div>
@@ -114,15 +111,15 @@ alt="Technology Stack"
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=MirEashanZaman&show_icons=true&theme=radical&hide_border=true&include_all_commits=true"
-height="175"
-alt="GitHub Statistics"
+  src="https://github-readme-stats.vercel.app/api?username=MirEashanZaman&show_icons=true&theme=radical&hide_border=true&include_all_commits=true"
+  height="175"
+  alt="GitHub Statistics"
 />
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirEashanZaman&layout=compact&theme=radical&hide_border=true"
-height="175"
-alt="Most Used Languages"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirEashanZaman&layout=compact&theme=radical&hide_border=true"
+  height="175"
+  alt="Most Used Languages"
 />
 
 </div>
@@ -148,12 +145,10 @@ A donor and blood bank management platform designed to organize donor informatio
 <br/>
 
 <a href="https://github.com/MirEashanZaman/Blood_Bridge">
-
-<img
-src="https://img.shields.io/badge/View_Repository-00D4AA?style=for-the-badge&logo=github&logoColor=black"
-alt="View Blood Bridge Repository"
-/>
-
+  <img
+    src="https://img.shields.io/badge/View_Repository-00D4AA?style=for-the-badge&logo=github&logoColor=black"
+    alt="View Blood Bridge Repository"
+  />
 </a>
 
 </td>
@@ -171,12 +166,10 @@ A pharmacy platform with inventory management, billing, medicine tracking, and s
 <br/>
 
 <a href="https://github.com/MirEashanZaman/Pharmacy_Management_System">
-
-<img
-src="https://img.shields.io/badge/View_Repository-00D4AA?style=for-the-badge&logo=github&logoColor=black"
-alt="View Pharmacy Management Repository"
-/>
-
+  <img
+    src="https://img.shields.io/badge/View_Repository-00D4AA?style=for-the-badge&logo=github&logoColor=black"
+    alt="View Pharmacy Management Repository"
+  />
 </a>
 
 </td>
@@ -198,12 +191,10 @@ A multi-role hotel platform supporting bookings, customer workflows, and payment
 <br/>
 
 <a href="https://github.com/MirEashanZaman/Hotel-Management-System">
-
-<img
-src="https://img.shields.io/badge/View_Repository-00D4AA?style=for-the-badge&logo=github&logoColor=black"
-alt="View Hotel Management Repository"
-/>
-
+  <img
+    src="https://img.shields.io/badge/View_Repository-00D4AA?style=for-the-badge&logo=github&logoColor=black"
+    alt="View Hotel Management Repository"
+  />
 </a>
 
 </td>
@@ -221,12 +212,10 @@ A dealership management system for handling customer information, vehicles, and 
 <br/>
 
 <a href="https://github.com/MirEashanZaman/Car-Showroom-Management-System">
-
-<img
-src="https://img.shields.io/badge/View_Repository-00D4AA?style=for-the-badge&logo=github&logoColor=black"
-alt="View Car Showroom Repository"
-/>
-
+  <img
+    src="https://img.shields.io/badge/View_Repository-00D4AA?style=for-the-badge&logo=github&logoColor=black"
+    alt="View Car Showroom Repository"
+  />
 </a>
 
 </td>
@@ -248,21 +237,17 @@ A supply-chain platform with a client portal, backend API, order workflows, loca
 <br/>
 
 <a href="https://github.com/MirEashanZaman/Oil-Supply-And-Delivery-Management-System">
-
-<img
-src="https://img.shields.io/badge/Frontend-00D4AA?style=for-the-badge&logo=github&logoColor=black"
-alt="Oil Supply Frontend"
-/>
-
+  <img
+    src="https://img.shields.io/badge/Frontend-00D4AA?style=for-the-badge&logo=github&logoColor=black"
+    alt="Oil Supply Frontend"
+  />
 </a>
 
 <a href="https://github.com/MirEashanZaman/Oil-Supply-Delivery-Management-System-Backend">
-
-<img
-src="https://img.shields.io/badge/Backend_API-0F766E?style=for-the-badge&logo=github&logoColor=white"
-alt="Oil Supply Backend"
-/>
-
+  <img
+    src="https://img.shields.io/badge/Backend_API-0F766E?style=for-the-badge&logo=github&logoColor=white"
+    alt="Oil Supply Backend"
+  />
 </a>
 
 </td>
@@ -280,12 +265,10 @@ A visual destination guide and journey-planning experience for exploring travel 
 <br/>
 
 <a href="https://github.com/MirEashanZaman/Travel-Guide">
-
-<img
-src="https://img.shields.io/badge/View_Repository-00D4AA?style=for-the-badge&logo=github&logoColor=black"
-alt="View Travel Guide Repository"
-/>
-
+  <img
+    src="https://img.shields.io/badge/View_Repository-00D4AA?style=for-the-badge&logo=github&logoColor=black"
+    alt="View Travel Guide Repository"
+  />
 </a>
 
 </td>
@@ -305,39 +288,31 @@ alt="View Travel Guide Repository"
 <br/>
 
 <a href="https://neon-strike01.netlify.app">
-
-<img
-src="https://img.shields.io/badge/Neon_Strike-Play_Now-FF2D55?style=for-the-badge"
-alt="Play Neon Strike"
-/>
-
+  <img
+    src="https://img.shields.io/badge/Neon_Strike-Play_Now-FF2D55?style=for-the-badge"
+    alt="Play Neon Strike"
+  />
 </a>
 
 <a href="https://sky-dasher.netlify.app">
-
-<img
-src="https://img.shields.io/badge/Sky_Dasher-Play_Now-5AC8FA?style=for-the-badge"
-alt="Play Sky Dasher"
-/>
-
+  <img
+    src="https://img.shields.io/badge/Sky_Dasher-Play_Now-5AC8FA?style=for-the-badge"
+    alt="Play Sky Dasher"
+  />
 </a>
 
 <a href="https://snake-game-nostalgia.netlify.app">
-
-<img
-src="https://img.shields.io/badge/Snake-Play_Now-30D158?style=for-the-badge"
-alt="Play Snake"
-/>
-
+  <img
+    src="https://img.shields.io/badge/Snake-Play_Now-30D158?style=for-the-badge"
+    alt="Play Snake"
+  />
 </a>
 
 <a href="https://chess-master-play.netlify.app/">
-
-<img
-src="https://img.shields.io/badge/Chess_Master-Play_Now-8A2BE2?style=for-the-badge"
-alt="Play Chess Master"
-/>
-
+  <img
+    src="https://img.shields.io/badge/Chess_Master-Play_Now-8A2BE2?style=for-the-badge"
+    alt="Play Chess Master"
+  />
 </a>
 
 </div>
@@ -357,21 +332,17 @@ A browser-based chess game featuring multiple themes, SVG chess pieces, and a Mi
 <div align="center">
 
 <a href="https://chess-master-play.netlify.app/">
-
-<img
-src="https://img.shields.io/badge/Play_Chess-8A2BE2?style=for-the-badge&logo=lichess&logoColor=white"
-alt="Play Chess Master"
-/>
-
+  <img
+    src="https://img.shields.io/badge/Play_Chess-8A2BE2?style=for-the-badge&logo=lichess&logoColor=white"
+    alt="Play Chess Master"
+  />
 </a>
 
 <a href="https://github.com/MirEashanZaman/Chess-Game">
-
-<img
-src="https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github&logoColor=white"
-alt="View Chess Master Source"
-/>
-
+  <img
+    src="https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="View Chess Master Source"
+  />
 </a>
 
 </div>
@@ -389,29 +360,29 @@ AI, cloud, programming, developer tools, and modern software development.
 <br/>
 
 <img
-src="https://img.shields.io/badge/Anthropic-Claude_API%20%C2%B7%20Claude_Code%20%C2%B7%20MCP-191919?style=for-the-badge&logo=anthropic&logoColor=white"
-alt="Anthropic Certifications"
+  src="https://img.shields.io/badge/Anthropic-Claude_API%20%C2%B7%20Claude_Code%20%C2%B7%20MCP-191919?style=for-the-badge&logo=anthropic&logoColor=white"
+  alt="Anthropic Certifications"
 />
 
 <br/><br/>
 
 <img
-src="https://img.shields.io/badge/Microsoft-Copilot%20%C2%B7%20C%23%20%C2%B7%20Azure_AI%20%C2%B7%20NLP-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"
-alt="Microsoft Certifications"
+  src="https://img.shields.io/badge/Microsoft-Copilot%20%C2%B7%20C%23%20%C2%B7%20Azure_AI%20%C2%B7%20NLP-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"
+  alt="Microsoft Certifications"
 />
 
 <br/><br/>
 
 <img
-src="https://img.shields.io/badge/Google-Gemini%20%C2%B7%20Generative_AI%20%C2%B7%20AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"
-alt="Google Certifications"
+  src="https://img.shields.io/badge/Google-Gemini%20%C2%B7%20Generative_AI%20%C2%B7%20AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"
+  alt="Google Certifications"
 />
 
 <br/><br/>
 
 <img
-src="https://img.shields.io/badge/Oracle-AI_for_You_Training-F80000?style=for-the-badge&logo=oracle&logoColor=white"
-alt="Oracle Certification"
+  src="https://img.shields.io/badge/Oracle-AI_for_You_Training-F80000?style=for-the-badge&logo=oracle&logoColor=white"
+  alt="Oracle Certification"
 />
 
 </div>
@@ -435,8 +406,8 @@ Modern backend architecture
 ## 💭 “Build it. Test it. Improve it. Ship it.”
 
 <img
-src="https://komarev.com/ghpvc/?username=MirEashanZaman&label=Profile%20Views&color=00D4AA&style=for-the-badge"
-alt="Profile Views"
+  src="https://komarev.com/ghpvc/?username=MirEashanZaman&label=Profile%20Views&color=00D4AA&style=for-the-badge"
+  alt="Profile Views"
 />
 
 </div>
@@ -444,20 +415,7 @@ alt="Profile Views"
 <br/>
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0f172a,50:0f766e,100:00d4aa"
-width="100%"
-alt="Footer"
+  src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0f172a,50:0f766e,100:00d4aa"
+  width="100%"
+  alt="Footer"
 />
-
-````
-
-The key correction is this section:
-
-```md
-<img
-  src="https://github-readme-stats.vercel.app/api?username=MirEashanZaman&show_icons=true&theme=radical&hide_border=true&include_all_commits=true"
-  height="175"
-  alt="GitHub Statistics"
-/>
-````
-
