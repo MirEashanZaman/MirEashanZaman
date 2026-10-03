@@ -65,6 +65,8 @@
 - ⚙️ **[Oil-Supply-Delivery-Management-System-Backend](https://github.com/MirEashanZaman/Oil-Supply-Delivery-Management-System-Backend)** — Enterprise NestJS + TypeORM + PostgreSQL REST API with token-bucket rate limiting and Saga workflows.
 - 🎨 **[Oil-Supply-Delivery-Management-System](https://github.com/MirEashanZaman/Oil-Supply-Delivery-Management-System)** — Initial UI prototype and interface designs.
 - 📜 **[Oil-Supply-And-Delivery-Management-System](https://github.com/MirEashanZaman/Oil-Supply-And-Delivery-Management-System)** — Original PHP & MySQL architectural edition.
+- 📱 **[Download the Android App](https://drive.google.com/file/d/17powG4Vv6PfM3D-qfFs0M61HPuJGXPQc/view?usp=drive_link)** — Install the mobile app directly (APK).
+- 🚀 **[Live Website](https://oil-supply-and-delivery-management.vercel.app/)** — Try the deployed web platform in your browser.
 
 ---
 
@@ -86,10 +88,10 @@
 ---
 
 ### 🎮 Games & Canvas Engineering
-- ♟️ **[Chess-Master](https://github.com/MirEashanZaman/Chess-Master)** — Full browser-based chess engine with move validation, check/checkmate detection, and responsive board UI.
-- ⚡ **[Neon-Strike](https://github.com/MirEashanZaman/Neon-Strike)** — Fast-paced, neon arcade shooter game built with HTML5 Canvas, custom particle systems, and JavaScript.
-- 🐍 **[Snake](https://github.com/MirEashanZaman/Snake)** — The classic retro snake arcade game featuring smooth grid collision mechanics and high-score tracking.
-- 🏃 **[sky-dasher](https://github.com/MirEashanZaman/sky-dasher)** — Sky-themed endless runner game with procedural obstacle generation and physics-based jumping.
+- ♟️ **[Chess-Master](https://chess-master-play.netlify.app/)** — Full browser-based chess engine with move validation, check/checkmate detection, and responsive board UI.
+- ⚡ **[Neon-Strike](https://neon-strike01.netlify.app/)** — Fast-paced, neon arcade shooter game built with HTML5 Canvas, custom particle systems, and JavaScript.
+- 🐍 **[Snake](https://snake-game-nostalgia.netlify.app/)** — The classic retro snake arcade game featuring smooth grid collision mechanics and high-score tracking.
+- 🏃 **[sky-dasher](https://sky-dasher.netlify.app/)** — Sky-themed endless runner game with procedural obstacle generation and physics-based jumping.
 
 ---
 
