@@ -2,7 +2,7 @@
 
 # Hi there, I'm Mir Eashan Zaman 👋
 
-**Full-Stack Software Engineer & Mobile Developer**  
+**Full-Stack Software Engineer**  
 *Building scalable web platforms, distributed backend systems, and cross-platform mobile apps.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mir-eashan-zaman-319474343)
