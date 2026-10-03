@@ -69,11 +69,9 @@
 ---
 
 ### 💻 Enterprise & Application Development
-- 🔷 **[AP-.NET](https://github.com/MirEashanZaman/AP-.NET)** — Enterprise-level backend and desktop applications built using C# and .NET Framework.
 - 💊 **[pharma-trace](https://github.com/MirEashanZaman/pharma-trace)** — TypeScript-powered medicine verification, supply-chain batch traceability, and verification pipeline.
 - 🚗 **[Car-Showroom-Management-System](https://github.com/MirEashanZaman/Car-Showroom-Management-System)** — C# Windows Forms/WPF desktop management system for showroom car inventory, transactions, and customer relationships.
 - 🌐 **[MirEashanZaman-Portfolio](https://github.com/MirEashanZaman/MirEashanZaman-Portfolio)** — Interactive personal portfolio website showcasing projects, bio, and credentials.
-- ⚙️ **[MirEashanZaman](https://github.com/MirEashanZaman/MirEashanZaman)** — GitHub profile configuration and source assets.
 
 ---
 
@@ -82,7 +80,8 @@
 - 🏨 **[Hotel-Management-System](https://github.com/MirEashanZaman/Hotel-Management-System)** — Hospitality software handling room reservations, guest check-in/out, payment invoicing, and room availability.
 - 💊 **[Pharmacy_Management_System](https://github.com/MirEashanZaman/Pharmacy_Management_System)** — Full pharmacy POS and inventory management system for monitoring medicine expiry, stock levels, and daily sales.
 - ✈️ **[Travel-Guide](https://github.com/MirEashanZaman/Travel-Guide)** — Travel itinerary planner and tour guide booking companion web app.
-- 📚 **[wbt-spring-2025-2026](https://github.com/MirEashanZaman/wbt-spring-2025-2026)** — Coursework repositories, lab exercises, and architectural demos for Web Technology courses.
+- 📚 **[wbt-spring-2025-2026](https://github.com/MirEashanZaman/wbt-spring-2025-2026)** — Coursework repositories, lab exercises, and architectural demos for Web Technology course.
+- 🔷 **[AP-.NET](https://github.com/MirEashanZaman/AP-.NET)** — Coursework repositories, lab exercises, and architectural demos for .NET course.
 
 ---
 
