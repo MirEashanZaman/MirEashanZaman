@@ -216,13 +216,21 @@ zaman@runtime:~$ neofetch --engineer
 
 ## 📊 Live Developer Telemetry
 
-<div align="center">
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=MirEashanZaman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
-<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=MirEashanZaman&theme=tokyonight&border_radius=12"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirEashanZaman&layout=compact&theme=tokyonight&border_radius=12"/>
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=MirEashanZaman&show_icons=true&theme=tokyonight&border_radius=10" height="175" alt="GitHub Stats" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MirEashanZaman&theme=tokyonight&border_radius=10" height="175" alt="Streak Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirEashanZaman&layout=compact&theme=tokyonight&border_radius=10" height="175" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
