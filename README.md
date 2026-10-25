@@ -1,8 +1,14 @@
-
 <div align="center">
 
-<!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:09090b,25:1e1b4b,50:312e81,75:4338ca,100:6366f1&height=220&section=header&text=Mir%20Eashan%20Zaman&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Software%20%26%20Distributed%20Systems%20Engineer&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+# 👨‍💻 Mir Eashan Zaman
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&width=750&height=50&lines=Full-Stack+Software+%26+Distributed+Systems+Engineer;Autonomous+AI+Agents+%E2%80%A2+FinTech+Remittance;Next.js+16+%E2%80%A2+React+19+%E2%80%A2+NestJS+%E2%80%A2+PostgreSQL;FinTechathon+2026+Innovator+%E2%80%A2+Saga+Workflows" alt="Typing SVG" />
+</a>
+
+<p align="center">
+  <b>Architecting enterprise distributed systems, autonomous AI agents, and real-time logistics.</b>
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/mir-eashan-zaman-319474343"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -11,6 +17,7 @@
 </p>
 
 </div>
+
 
 ---
 
