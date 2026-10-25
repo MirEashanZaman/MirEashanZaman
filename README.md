@@ -41,7 +41,7 @@ zaman@runtime:~$ neofetch --engineer
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
 │                                 DISTRIBUTED TOPOLOGY                                   │
 │                                                                                        │
-│   [ Next.js 16 Web ] ──REST / WSS──┐                                                  │
+│   [ Next.js 16 Web ] ──REST / WSS──┐                                                   │
 │                                     ▼                                                  │
 │   [ Android Mobile ] ──────► [ NestJS API Gateway ] ──► [ Guardrails / Scrypt Auth ]   │
 │                                     │                                                  │
