@@ -47,7 +47,7 @@ zaman@runtime:~$ neofetch --engineer
 │                                     │                                                  │
 │                                     ├──► [ Saga Orchestrator ] ──► [ PostgreSQL DB ]   │
 │                                     ├──► [ Gemini AI Agent ]   ──► [ Route Optimizer ] │
-│                                     ├──► [ EVM Smart Contracts ] ► [ Batch Attestation ]│
+│                                     ├──► [ EVM Smart Contracts ] ► [ Batch Attestation]│
 │                                     └──► [ Real-time Radar ]   ──► [ Pusher Engine ]   │
 └────────────────────────────────────────────────────────────────────────────────────────┘
 ```
