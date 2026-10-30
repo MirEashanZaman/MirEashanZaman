@@ -260,21 +260,12 @@ zaman@runtime:~$ neofetch --engineer
 
 ## 📊 Live Developer Telemetry
 
-<table align="center">
-  <tr>
-    <td align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=MirEashanZaman&show_icons=true&theme=tokyonight&border_radius=10" height="175" alt="GitHub Stats" />
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MirEashanZaman&theme=tokyonight&border_radius=10" height="175" alt="Streak Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirEashanZaman&layout=compact&theme=tokyonight&border_radius=10" height="175" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MirEashanZaman&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/MirEashanZaman?style=for-the-badge&logo=github&color=4F46E5" alt="GitHub Followers" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=MirEashanZaman&theme=tokyonight&border_radius=10" height="175" alt="Streak Stats" />
+</div>
 
 ---
 
