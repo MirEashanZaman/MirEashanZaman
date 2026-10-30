@@ -3,11 +3,11 @@
 # 👨‍💻 Mir Eashan Zaman
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&width=750&height=50&lines=Full-Stack+Software+%26+Distributed+Systems+Engineer;Autonomous+AI+Agents+%E2%80%A2+FinTech+Remittance;Next.js+16+%E2%80%A2+React+19+%E2%80%A2+NestJS+%E2%80%A2+PostgreSQL;FinTechathon+2026+Innovator+%E2%80%A2+Saga+Workflows" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&width=750&height=50&lines=Full-Stack+Software+%26+Distributed+Systems+Engineer;Autonomous+AI+Agents+%E2%80%A2+Blockchain+%E2%80%A2+FinTech;Next.js+%E2%80%A2+React+19+%E2%80%A2+NestJS+%E2%80%A2+PostgreSQL+%E2%80%A2+Solidity;FinTechathon+2026+Innovator+%E2%80%A2+Saga+Workflows" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <b>Architecting enterprise distributed systems, autonomous AI agents, and real-time logistics.</b>
+  <b>Architecting enterprise distributed systems, autonomous AI agents, blockchain traceability, and real-time logistics.</b>
 </p>
 
 <p align="center">
@@ -26,10 +26,10 @@
 ```bash
 zaman@runtime:~$ neofetch --engineer
   ______           _                 OS:       Distributed Enterprise Architecture
- |  ____|         | |                Focus:    Autonomous AI Agents • FinTech • ERP
- | |__   __ _ ___ | |__   __ _ _ __  Backend:  NestJS • TypeORM • PostgreSQL • Pusher
- |  __| / _` / __|| '_ \ / _` | '_ \ Frontend: Next.js 16 • React 19 • TypeScript
- | |___| (_| \__ \| | | | (_| | | | |Mobile:   Capacitor Native Android Client
+ |  ____|         | |                Focus:    Autonomous AI Agents • Blockchain • FinTech
+ | |__   __ _ ___ | |__   __ _ _ __  Backend:  NestJS • TypeORM • PostgreSQL • Redis
+ |  __| / _` / __|| '_ \ / _` | '_ \ Frontend: Next.js • React 19 • TypeScript
+ | |___| (_| \__ \| | | | (_| | | | |Chain:    Solidity • Hardhat • Ethers.js • EVM
  |______\__,_|___/|_| |_|\__,_|_| |_|Security: Scrypt • SHA-256 Signatures • 2FA OTP
 ```
 
@@ -41,12 +41,13 @@ zaman@runtime:~$ neofetch --engineer
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
 │                                 DISTRIBUTED TOPOLOGY                                   │
 │                                                                                        │
-│   [ Next.js 16 Web ] ──REST / WSS──┐                                                   │
+│   [ Next.js Web ] ───REST / WSS────┐                                                   │
 │                                    ▼                                                   │
 │   [ Android Mobile ] ──────► [ NestJS API Gateway ] ──► [ Guardrails / Scrypt Auth ]   │
 │                                     │                                                  │
 │                                     ├──► [ Saga Orchestrator ] ──► [ PostgreSQL DB ]   │
 │                                     ├──► [ Gemini AI Agent ]   ──► [ Route Optimizer ] │
+│                                     ├──► [ EVM Smart Contracts ] ► [ Batch Attestation ]│
 │                                     └──► [ Real-time Radar ]   ──► [ Pusher Engine ]   │
 └────────────────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -66,14 +67,16 @@ zaman@runtime:~$ neofetch --engineer
         <p><i>Autonomous Cross-Border Student Remittance & FX Assistant</i></p>
       </div>
       <p>
-        Engineered for international students paying foreign tuition from Bangladesh (BDT). Replaces fragmented bank visits with an autonomous agent governed by strict safety policies and idempotent financial state machines.
+        Built with a teammate for international students paying foreign tuition from Bangladesh (BDT). Replaces fragmented bank visits with an autonomous agent governed by strict safety policies and idempotent financial state machines. Runs in a simulated sandbox (no live bank rails).
       </p>
       <b>🛡️ Hardened Security & Compliance:</b>
       <ul>
         <li><b>3-Tier Permission Matrix:</b> <code>READ_ONLY</code>, <code>DRAFT</code>, and <code>EXECUTE</code>. The LLM is strictly prohibited from unilateral fund movements.</li>
+        <li><b>Safety Pipeline:</b> Chain of Responsibility checks (injection, permission, anomaly, limit, confirmation) before any transfer.</li>
         <li><b>Saga State Machine:</b> Multi-step transfer lifecycle with rollback triggers to guarantee zero balance inconsistencies.</li>
         <li><b>Cryptographic Integrity:</b> <code>scrypt</code> password hashing, SHA-256 transaction fingerprinting & dynamic Step-Up 2FA OTP.</li>
         <li><b>TypeScript Vector Engine:</b> Generates verifiable A4 PDF payment certificates with embedded checksums.</li>
+        <li><b>Verified:</b> 80 automated tests and a GitHub Actions CI pipeline.</li>
       </ul>
       <b>Tech Stack:</b><br/>
       <code>NestJS</code> <code>Next.js 14</code> <code>Gemini AI</code> <code>PostgreSQL</code> <code>Docker</code> <code>Zod</code>
@@ -129,6 +132,37 @@ zaman@runtime:~$ neofetch --engineer
       <br/>
     </td>
   </tr>
+  <tr>
+    <!-- PHARMATRACE-ES -->
+    <td colspan="2" valign="top">
+      <div align="center">
+        <br/>
+        <img src="https://img.shields.io/badge/Blockchain-Solidity%20%7C%20EVM-363636?style=for-the-badge&logo=ethereum&logoColor=white" alt="Blockchain"/>
+        <h3>💊 PharmaTrace-ES</h3>
+        <p><i>Anti-Counterfeit Pharmaceutical Track-and-Trace on Blockchain</i></p>
+      </div>
+      <p>
+        An event-driven platform that follows a medicine from manufacturer to pharmacy so counterfeits are easy to catch. Designed with FDA 21 CFR Part 11, EU GxP Annex 11, and US DSCSA requirements in mind.
+      </p>
+      <b>⛓️ Traceability & Smart Contracts:</b>
+      <ul>
+        <li><b>Custody Saga:</b> Event Sourcing, CQRS, and Saga orchestration for multi-party handovers with compensating rollbacks.</li>
+        <li><b>Solidity Suite:</b> Batch hash anchoring, ERC-721 burn-on-dispense, automated cold-chain escrow, and carrier staking with slashing.</li>
+        <li><b>Zero-Knowledge Privacy:</b> Groth16 proof that a shipment stayed within 2–8 °C without exposing formulation data.</li>
+        <li><b>Audit-Ready Backend:</b> Request audit interceptor, rate limiting, sanitized exception filter, and Swagger docs.</li>
+        <li><b>Web3 Frontend:</b> Next.js 14 portals with an interactive provenance graph and live telemetry dashboard.</li>
+      </ul>
+      <b>Tech Stack:</b><br/>
+      <code>NestJS</code> <code>Next.js 14</code> <code>Solidity</code> <code>Hardhat</code> <code>Ethers.js</code> <code>PostgreSQL</code> <code>Redis</code> <code>Docker</code>
+      <br/><br/>
+      <div align="center">
+        <a href="https://github.com/MirEashanZaman/pharma-trace">
+          <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github" alt="Repo"/>
+        </a>
+      </div>
+      <br/>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -147,9 +181,19 @@ zaman@runtime:~$ neofetch --engineer
     </td>
   </tr>
   <tr>
+    <td><b>⛓️ Blockchain & Web3</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ERC--721-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Zero--Knowledge%20Proofs-6D28D9?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
     <td><b>🌐 Frontend & Mobile</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Next.js%2016-000000?style=flat-square&logo=next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
@@ -172,6 +216,7 @@ zaman@runtime:~$ neofetch --engineer
     <td><b>🗄️ Data & Cloud</b></td>
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/SQL%20Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
       <img src="https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white"/>
@@ -201,7 +246,6 @@ zaman@runtime:~$ neofetch --engineer
 <summary><b>📂 Additional Enterprise Solutions & Academic Systems (Click to expand)</b></summary>
 <br/>
 
-- 💊 **[pharma-trace](https://github.com/MirEashanZaman/pharma-trace)** — TypeScript-powered medicine verification, supply-chain batch traceability, and verification pipeline.
 - 🚗 **[Car-Showroom-Management-System](https://github.com/MirEashanZaman/Car-Showroom-Management-System)** — C# .NET desktop management system for showroom car inventory, transactions, and customer financing contracts.
 - 🩸 **[Blood_Bridge](https://github.com/MirEashanZaman/Blood_Bridge)** — Emergency blood donor-to-recipient matching platform with geo-proximity search and instant notifications.
 - 🏨 **[Hotel-Management-System](https://github.com/MirEashanZaman/Hotel-Management-System)** — Hospitality software handling dynamic room allocations, guest check-in/out, and invoicing.
