@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0D0221,50:FF00E5,100:00F0FF&text=MIR%20EASHAN%20ZAMAN&fontSize=50&fontColor=FCEE0A&fontAlign=50&fontAlignY=42&desc=PLAYER%20ONE%20%E2%80%A2%20FULL-STACK%20%E2%80%A2%20AI%20AGENTS%20%E2%80%A2%20BLOCKCHAIN&descSize=16&descColor=00F0FF&descAlignY=65&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0D0221,50:FF00E5,100:00F0FF&text=MIR%20EASHAN%20ZAMAN%20%2F%2F%20NIGHT%20RUNNER&fontSize=50&fontColor=FCEE0A&fontAlign=50&fontAlignY=42&desc=CYBERPUNK%20DEV%20%E2%80%A2%20QUEST%20LOG%20%E2%80%A2%20AI%20AGENTS%20%E2%80%A2%20WEB3&descSize=16&descColor=00F0FF&descAlignY=65&animation=fadeIn" alt="header" />
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:0D0221,100:FF00E5&text=BOOT%20SEQUENCE&fontSize=28&fontColor=FCEE0A&animation=fadeIn&stroke=00F0FF&strokeWidth=2" alt="boot sequence" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:0D0221,100:FF00E5&text=NEON%20BOOT%20SEQUENCE&fontSize=28&fontColor=FCEE0A&animation=fadeIn&stroke=00F0FF&strokeWidth=2" alt="boot sequence" />
 
 ```diff
 + [ OK ]  identity ...... Mir Eashan Zaman
@@ -28,15 +28,32 @@
 - [WARN]  coffee ........ low. refill needed.
 ! all systems nominal_
 ```
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:0D0221,100:FF00E5&text=PLAYER%20HUD%20%2F%20NIGHT%20CITY&fontSize=28&fontColor=FCEE0A&animation=fadeIn&stroke=00F0FF&strokeWidth=2" alt="player HUD" />
+
+<div align="center">
+
+| ⏱️ CHRONO | ⚡ XP | 🧩 QUESTS | 🎮 ARCADE |
+| :---: | :---: | :---: | :---: |
+| **TIME ATTACK** | **LEVEL UP** | **3 CLEARED** | **4 GAMES** |
+| Beat the clock | Build & ship | AI · Web3 · Logistics | Play the side quests |
+
+<img src="https://img.shields.io/badge/ZONE-NIGHT%20CITY-FF00E5?style=for-the-badge&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/XP%20BOOST-LEARN%20%7C%20BUILD%20%7C%20SHIP-FCEE0A?style=for-the-badge&labelColor=0D0221" />
+
+</div>
+
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:0D0221,100:00F0FF&text=PLAYER%20ONE&fontSize=28&fontColor=FCEE0A&animation=fadeIn&stroke=FF00E5&strokeWidth=2" alt="player one" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:0D0221,100:00F0FF&text=PLAYER%20PROFILE%20%2F%20NIGHT%20CITY&fontSize=28&fontColor=FCEE0A&animation=fadeIn&stroke=FF00E5&strokeWidth=2" alt="player one" />
 
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <img src="https://img.shields.io/badge/NAME-MIR%20EASHAN%20ZAMAN-FF00E5?style=for-the-badge&labelColor=0D0221" /><br/>
+      <img src="https://img.shields.io/badge/NAME-MIR%20EASHAN%20ZAMAN%20%2F%2F%20NIGHT%20RUNNER-FF00E5?style=for-the-badge&labelColor=0D0221" /><br/>
       <img src="https://img.shields.io/badge/CLASS-FULL--STACK%20ENGINEER-00F0FF?style=for-the-badge&labelColor=0D0221" /><br/>
       <img src="https://img.shields.io/badge/SUBCLASS-AI%20%2B%20WEB3%20MAGE-FCEE0A?style=for-the-badge&labelColor=0D0221" /><br/>
       <img src="https://img.shields.io/badge/GUILD-FINTECHATHON%202026-FF00E5?style=for-the-badge&labelColor=0D0221" /><br/>
@@ -56,7 +73,7 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D0221,50:8A2BE2,100:FF00E5&text=THE%20FULL-STACK%20CHRONICLES&fontSize=36&fontColor=FCEE0A&fontAlignY=40&desc=A%20MIR%20EASHAN%20ZAMAN%20FILM%20%E2%80%A2%20NOW%20SHOWING&descSize=15&descColor=00F0FF&descAlignY=62&animation=fadeIn" alt="movie poster" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D0221,50:8A2BE2,100:FF00E5&text=THE%20FULL-STACK%20CHRONICLES&fontSize=36&fontColor=FCEE0A&fontAlignY=40&desc=A%20MIR%20EASHAN%20ZAMAN%20%2F%2F%20NIGHT%20RUNNER%20FILM%20%E2%80%A2%20NOW%20SHOWING&descSize=15&descColor=00F0FF&descAlignY=62&animation=fadeIn" alt="movie poster" />
 
 <div align="center">
 
@@ -103,7 +120,7 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:0D0221,100:FF00E5&text=MISSION%20LOG&fontSize=28&fontColor=FCEE0A&animation=fadeIn&stroke=00F0FF&strokeWidth=2" alt="mission log" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:0D0221,100:FF00E5&text=QUEST%20LOG%20%2F%20MISSIONS&fontSize=28&fontColor=FCEE0A&animation=fadeIn&stroke=00F0FF&strokeWidth=2" alt="mission log" />
 
 ### 🎓 STAGE 01 // Student Tuition Payment Agent
 ![Stage](https://img.shields.io/badge/STAGE%2001-CLEARED-00FF9C?style=for-the-badge&labelColor=0D0221) ![FinTechathon](https://img.shields.io/badge/FINTECHATHON%202026-INTERNATIONAL%20TRACK-FF00E5?style=for-the-badge&labelColor=0D0221)
@@ -190,7 +207,7 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:0D0221,100:00F0FF&text=ARCADE%20-%20PICK%20A%20GAME&fontSize=28&fontColor=FCEE0A&animation=fadeIn&stroke=FF00E5&strokeWidth=2" alt="arcade" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:0D0221,100:00F0FF&text=NEON%20ARCADE%20%2F%20SELECT%20YOUR%20RUN&fontSize=28&fontColor=FCEE0A&animation=fadeIn&stroke=FF00E5&strokeWidth=2" alt="arcade" />
 
 <div align="center">
 
@@ -200,6 +217,22 @@
 | [![Play](https://img.shields.io/badge/%E2%96%B6%20PLAY-FF00E5?style=for-the-badge&labelColor=0D0221)](https://chess-master-play.netlify.app/) | [![Play](https://img.shields.io/badge/%E2%96%B6%20PLAY-00F0FF?style=for-the-badge&labelColor=0D0221)](https://neon-strike01.netlify.app/) | [![Play](https://img.shields.io/badge/%E2%96%B6%20PLAY-FCEE0A?style=for-the-badge&labelColor=0D0221)](https://snake-game-nostalgia.netlify.app/) | [![Play](https://img.shields.io/badge/%E2%96%B6%20PLAY-00FF9C?style=for-the-badge&labelColor=0D0221)](https://sky-dasher.netlify.app/) |
 
 </div>
+
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:0D0221,100:00F0FF&text=CHRONO%20RUN%20%2F%20TIME%20ATTACK&fontSize=28&fontColor=FCEE0A&animation=fadeIn&stroke=FF00E5&strokeWidth=2" alt="chrono run" />
+
+<div align="center">
+
+**NIGHT CITY TIME TRIAL**  
+*One minute. One target. Can you beat the clock?*
+
+[![PLAY CHRONO RUN](https://img.shields.io/badge/%E2%96%B6%20PLAY%20CHRONO%20RUN-FF00E5?style=for-the-badge&labelColor=0D0221)](./chrono-game.html)
+
+</div>
+
+> **Game objective:** Start the run, then hit **STOP** as close to the target time as possible. Every millisecond counts. This standalone mini-game is included as `chrono-game.html`; host it with GitHub Pages to play it directly in your browser.
 
 <br/>
 
@@ -219,7 +252,7 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:0D0221,100:FF00E5&text=LIVE%20TELEMETRY&fontSize=28&fontColor=FCEE0A&animation=fadeIn&stroke=00F0FF&strokeWidth=2" alt="telemetry" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:0D0221,100:FF00E5&text=LIVE%20SYSTEM%20TELEMETRY&fontSize=28&fontColor=FCEE0A&animation=fadeIn&stroke=00F0FF&strokeWidth=2" alt="telemetry" />
 
 <div align="center">
 
