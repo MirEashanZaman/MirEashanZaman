@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0D0221,50:FF00E5,100:00F0FF&text=MIR%20EASHAN%20ZAMAN%20%2F%2F%20NIGHT%20RUNNER&fontSize=50&fontColor=FCEE0A&fontAlign=50&fontAlignY=42&desc=CYBERPUNK%20DEV%20%E2%80%A2%20QUEST%20LOG%20%E2%80%A2%20AI%20AGENTS%20%E2%80%A2%20WEB3&descSize=16&descColor=00F0FF&descAlignY=65&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0D0221,50:FF00E5,100:00F0FF&text=MIR%20EASHAN%20ZAMAN&fontSize=34&fontColor=FCEE0A&fontAlign=50&fontAlignY=42&desc=CYBERPUNK%20DEV%20%E2%80%A2%20QUEST%20LOG%20%E2%80%A2%20AI%20AGENTS%20%E2%80%A2%20WEB3&descSize=12&descColor=00F0FF&descAlignY=65&animation=fadeIn" alt="header" />
 
 <div align="center">
 
