@@ -31,6 +31,62 @@
 
 <br/>
 
+## `>_ NOW.SHOWING`
+
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3200&pause=1000&color=FF00E5&background=0D022100&center=true&vCenter=true&width=760&height=40&lines=IN+A+WORLD+OF+MESSY+PAYMENTS...;ONE+DEVELOPER+BUILT+AN+AI+AGENT+WITH+GUARDRAILS.;SAGAS.+SMART+CONTRACTS.+ZERO+BALANCE+BUGS.;COMING+TO+A+REPO+NEAR+YOU." alt="trailer" />
+</a>
+
+</div>
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                  MIR EASHAN ZAMAN  PRESENTS                  ║
+║                                                              ║
+║            ▓▓▓  T H E   F U L L - S T A C K  ▓▓▓             ║
+║            ▓▓▓      C H R O N I C L E S       ▓▓▓            ║
+║                                                              ║
+║      "A gripping tale of APIs, agents and blockchains."      ║
+║                  - the Terminal Times                        ║
+║                                                              ║
+╠══════════════════════════════════════════════════════════════╣
+║  STARRING ........ NestJS  |  Next.js  |  PostgreSQL         ║
+║  CO-STARRING ..... Solidity  |  Gemini AI  |  Redis          ║
+║  STUNTS BY ....... Docker  |  GitHub Actions                 ║
+║  FILMED ON ....... localhost:3000                            ║
+║  RATED ........... PG-13 (contains heavy refactoring)        ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+## `>_ PLAYER.ONE`
+
+```text
+╔═════════════════════ CHARACTER SHEET ═════════════════════╗
+  NAME     : Mir Eashan Zaman
+  CLASS    : Full-Stack Engineer  //  AI + Web3 Mage
+  GUILD    : FinTechathon 2026 (International Track)
+  WEAPONS  : NestJS, Next.js, Solidity, PostgreSQL
+
+  ── ATTRIBUTES ──────────────────────────────────────────
+  BACKEND     ████████████████░░░░  80%
+  FRONTEND    ████████████████░░░░  80%
+  AI AGENTS   ███████████████░░░░░  75%
+  BLOCKCHAIN  ██████████████░░░░░░  70%
+  DEVOPS      █████████████░░░░░░░  65%
+
+  HP  ████████████████████  100%
+  MP  ██████████████░░░░░░   70%   (needs coffee)
+  XP  ███████████████░░░░░   next level loading...
+╚════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
 ## `>_ NETWORK.TOPOLOGY`
 
 ```
@@ -112,6 +168,20 @@
 
 <br/>
 
+## `>_ ACHIEVEMENTS.UNLOCKED`
+
+| | ACHIEVEMENT | STATUS |
+| :---: | :--- | :---: |
+| 🥇 | **FinTechathon 2026 Innovator** | ![](https://img.shields.io/badge/UNLOCKED-00FF9C?style=flat-square&labelColor=0D0221) |
+| 🧪 | **80 automated tests passing** | ![](https://img.shields.io/badge/UNLOCKED-00FF9C?style=flat-square&labelColor=0D0221) |
+| 🚀 | **Live production platform shipped** | ![](https://img.shields.io/badge/UNLOCKED-00FF9C?style=flat-square&labelColor=0D0221) |
+| 📱 | **Native Android APK released** | ![](https://img.shields.io/badge/UNLOCKED-00FF9C?style=flat-square&labelColor=0D0221) |
+| 🕶️ | **Built a Groth16 zero-knowledge proof** | ![](https://img.shields.io/badge/UNLOCKED-00FF9C?style=flat-square&labelColor=0D0221) |
+| 🎮 | **4 browser games deployed** | ![](https://img.shields.io/badge/UNLOCKED-00FF9C?style=flat-square&labelColor=0D0221) |
+| 🔒 | **???  (next mission)** | ![](https://img.shields.io/badge/LOCKED-FF00E5?style=flat-square&labelColor=0D0221) |
+
+<br/>
+
 ## `>_ ARCADE.EXE`
 
 <div align="center">
@@ -157,6 +227,24 @@
 
 <img src="https://komarev.com/ghpvc/?username=MirEashanZaman&label=SYSTEM%20VISITS&color=FF00E5&style=for-the-badge&labelColor=0D0221" alt="views" />
 <img src="https://img.shields.io/github/followers/MirEashanZaman?style=for-the-badge&logo=github&color=00F0FF&labelColor=0D0221" alt="followers" />
+
+</div>
+
+<div align="center">
+
+```text
+  ╔══════════════════════════════════════╗
+  ║                                      ║
+  ║           G A M E   O V E R ?        ║
+  ║                                      ║
+  ║      CONTINUE?   9 . 8 . 7 . .       ║
+  ║                                      ║
+  ║    >> INSERT COIN TO COLLABORATE <<  ║
+  ║                                      ║
+  ╚══════════════════════════════════════╝
+```
+
+<a href="https://linkedin.com/in/mir-eashan-zaman-319474343"><img src="https://img.shields.io/badge/%E2%96%B6%20PRESS%20START-FF00E5?style=for-the-badge&labelColor=0D0221" alt="press start" /></a>
 
 </div>
 
