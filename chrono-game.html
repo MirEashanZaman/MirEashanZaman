@@ -21,11 +21,11 @@ button:disabled{opacity:.35;cursor:not-allowed}.message{text-align:center;min-he
 <body>
 <main class="wrap">
   <div class="kicker">// ARCADE MODULE 01 · NEON DISTRICT</div>
-  <h1 class="title">CHRONO<br>RUN<span style="color:var(--cyan)">_</span></h1>
+  <h1 class="title">CHRONO<br>RUN<span style="color:var(--cyan)"> 🐱</span></h1>
   <p class="sub">Your neural timer is calibrated. Start the run, then stop as close as possible to the target. Precision earns the high score.</p>
   <div class="status"><span>● SYSTEM ONLINE</span><span>MODE: TIME ATTACK</span><span>DIFFICULTY: NIGHTMARE</span></div>
   <div class="display" id="time">00.000</div>
-  <div class="target">TARGET TIME // <strong id="target">10.000</strong> SECONDS</div>
+  <div class="target">TARGET TIME // <strong id="target">5.000</strong> SECONDS</div>
   <div class="actions">
     <button class="primary" id="start">▶ START RUN</button>
     <button id="stop" disabled>■ STOP CLOCK</button>
@@ -41,12 +41,12 @@ button:disabled{opacity:.35;cursor:not-allowed}.message{text-align:center;min-he
 </main>
 <script>
 (() => {
- const $=id=>document.getElementById(id), target=10;
+ const $=id=>document.getElementById(id), target=5;
  let started=0, raf=0, running=false, best=Infinity;
  const fmt=n=>n.toFixed(3);
- function tick(){if(!running)return;$('time').textContent=fmt((performance.now()-started)/1000);raf=requestAnimationFrame(tick)}
+ function tick(){if(!running)return;$('time').textContent=fmt((performance.now()-started)/500);raf=requestAnimationFrame(tick)}
  $('start').onclick=()=>{if(running)return;running=true;started=performance.now();$('start').disabled=true;$('stop').disabled=false;$('message').textContent='RUNNING // FEEL THE PULSE';tick()};
- $('stop').onclick=()=>{if(!running)return;running=false;cancelAnimationFrame(raf);const elapsed=(performance.now()-started)/1000,err=Math.abs(elapsed-target);$('time').textContent=fmt(elapsed);$('last').textContent=fmt(elapsed)+'s';$('error').textContent=fmt(err)+'s';if(err<best){best=err;$('best').textContent=fmt(best)+'s'}$('message').textContent=err<.05?'PERFECT SYNC // LEGENDARY!':err<.25?'NICE RUN // HIGH XP':'RUN COMPLETE // TRY AGAIN';$('start').disabled=false;$('stop').disabled=true};
+ $('stop').onclick=()=>{if(!running)return;running=false;cancelAnimationFrame(raf);const elapsed=(performance.now()-started)/500,err=Math.abs(elapsed-target);$('time').textContent=fmt(elapsed);$('last').textContent=fmt(elapsed)+'s';$('error').textContent=fmt(err)+'s';if(err<best){best=err;$('best').textContent=fmt(best)+'s'}$('message').textContent=err<.05?'PERFECT SYNC // LEGENDARY!':err<.25?'NICE RUN // HIGH XP':'RUN COMPLETE // TRY AGAIN';$('start').disabled=false;$('stop').disabled=true};
  $('reset').onclick=()=>{running=false;cancelAnimationFrame(raf);$('time').textContent='00.000';$('message').textContent='PRESS START TO JACK IN';$('start').disabled=false;$('stop').disabled=true};
 })();
 </script>
