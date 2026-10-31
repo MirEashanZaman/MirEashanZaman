@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>CHRONO RUN // Night City</title>
+<style>
+:root{--bg:#090014;--panel:#130026;--cyan:#00f0ff;--pink:#ff00e5;--yellow:#fcee0a;--green:#00ff9c}
+*{box-sizing:border-box}body{margin:0;min-height:100vh;background:radial-gradient(ellipse at 50% 0,#2b0646 0,#090014 55%);color:#eafcff;font-family:ui-monospace,SFMono-Regular,Consolas,monospace;display:grid;place-items:center;padding:24px;overflow-x:hidden}
+body:before{content:"";position:fixed;inset:0;pointer-events:none;background:repeating-linear-gradient(0deg,transparent 0 3px,#00f0ff08 4px 5px);z-index:2}
+.wrap{width:min(760px,100%);border:1px solid var(--cyan);box-shadow:0 0 18px #00f0ff55,inset 0 0 30px #ff00e51a;background:#0d001beF;padding:clamp(20px,5vw,42px);position:relative}
+.kicker{color:var(--pink);letter-spacing:.24em;font-size:.75rem}.title{font-size:clamp(2rem,7vw,4rem);line-height:1;margin:12px 0;color:var(--yellow);text-shadow:3px 3px var(--pink),0 0 20px #ff00e588}.sub{color:#9ceef7;line-height:1.6}.status{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;border-block:1px solid #ffffff24;padding:14px 0;margin:24px 0;color:var(--cyan);font-size:.8rem}
+.display{font-size:clamp(2.8rem,12vw,6rem);font-weight:900;text-align:center;color:var(--cyan);text-shadow:0 0 18px #00f0ff88;margin:30px 0 8px;font-variant-numeric:tabular-nums}
+.target{text-align:center;color:#bda5d4;font-size:.9rem}.actions{display:flex;justify-content:center;gap:12px;flex-wrap:wrap;margin:26px 0}
+button{font:inherit;font-weight:900;letter-spacing:.1em;padding:15px 24px;border:1px solid var(--cyan);color:var(--cyan);background:#00f0ff0d;cursor:pointer;min-width:150px;transition:.15s}
+button:hover:not(:disabled){background:var(--cyan);color:#090014;box-shadow:0 0 22px #00f0ff77;transform:translateY(-2px)}
+button.primary{border-color:var(--pink);color:var(--pink)}button.primary:hover:not(:disabled){background:var(--pink);color:#090014;box-shadow:0 0 22px #ff00e577}
+button:disabled{opacity:.35;cursor:not-allowed}.message{text-align:center;min-height:28px;color:var(--yellow);font-weight:bold}.scores{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:25px}.score{border:1px solid #ffffff24;padding:12px;text-align:center}.score small{display:block;color:#a48dbb;font-size:.7rem;letter-spacing:.1em}.score strong{display:block;color:var(--green);font-size:1.2rem;margin-top:8px}.footer{margin-top:28px;text-align:center;color:#6d587e;font-size:.7rem;letter-spacing:.14em}
+</style>
+</head>
+<body>
+<main class="wrap">
+  <div class="kicker">// ARCADE MODULE 01 · NEON DISTRICT</div>
+  <h1 class="title">CHRONO<br>RUN<span style="color:var(--cyan)">_</span></h1>
+  <p class="sub">Your neural timer is calibrated. Start the run, then stop as close as possible to the target. Precision earns the high score.</p>
+  <div class="status"><span>● SYSTEM ONLINE</span><span>MODE: TIME ATTACK</span><span>DIFFICULTY: NIGHTMARE</span></div>
+  <div class="display" id="time">00.000</div>
+  <div class="target">TARGET TIME // <strong id="target">10.000</strong> SECONDS</div>
+  <div class="actions">
+    <button class="primary" id="start">▶ START RUN</button>
+    <button id="stop" disabled>■ STOP CLOCK</button>
+    <button id="reset">↻ RESET</button>
+  </div>
+  <div class="message" id="message" aria-live="polite">PRESS START TO JACK IN</div>
+  <div class="scores">
+    <div class="score"><small>LAST RUN</small><strong id="last">--</strong></div>
+    <div class="score"><small>ERROR</small><strong id="error">--</strong></div>
+    <div class="score"><small>BEST ERROR</small><strong id="best">--</strong></div>
+  </div>
+  <div class="footer">NIGHT CITY // KEEP YOUR EYES ON THE CLOCK</div>
+</main>
+<script>
+(() => {
+ const $=id=>document.getElementById(id), target=10;
+ let started=0, raf=0, running=false, best=Infinity;
+ const fmt=n=>n.toFixed(3);
+ function tick(){if(!running)return;$('time').textContent=fmt((performance.now()-started)/1000);raf=requestAnimationFrame(tick)}
+ $('start').onclick=()=>{if(running)return;running=true;started=performance.now();$('start').disabled=true;$('stop').disabled=false;$('message').textContent='RUNNING // FEEL THE PULSE';tick()};
+ $('stop').onclick=()=>{if(!running)return;running=false;cancelAnimationFrame(raf);const elapsed=(performance.now()-started)/1000,err=Math.abs(elapsed-target);$('time').textContent=fmt(elapsed);$('last').textContent=fmt(elapsed)+'s';$('error').textContent=fmt(err)+'s';if(err<best){best=err;$('best').textContent=fmt(best)+'s'}$('message').textContent=err<.05?'PERFECT SYNC // LEGENDARY!':err<.25?'NICE RUN // HIGH XP':'RUN COMPLETE // TRY AGAIN';$('start').disabled=false;$('stop').disabled=true};
+ $('reset').onclick=()=>{running=false;cancelAnimationFrame(raf);$('time').textContent='00.000';$('message').textContent='PRESS START TO JACK IN';$('start').disabled=false;$('stop').disabled=true};
+})();
+</script>
+</body>
+</html>
