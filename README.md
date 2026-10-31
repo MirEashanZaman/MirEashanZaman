@@ -145,16 +145,13 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MirEashanZaman&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=FF00E5&icon_color=00F0FF&text_color=FCEE0A" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirEashanZaman&layout=compact&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=FF00E5&text_color=00F0FF" alt="languages" />
-
-<br/>
-
-<img height="165" src="https://streak-stats.demolab.com/?user=MirEashanZaman&theme=synthwave&hide_border=true&background=0D0221&ring=FF00E5&fire=FCEE0A&currStreakLabel=00F0FF" alt="streak" />
+<img src="https://img.shields.io/github/last-commit/MirEashanZaman/student-tuition-payment-agent?style=for-the-badge&label=TUITION%20AGENT&labelColor=0D0221&color=FF00E5" alt="tuition agent last commit" />
+<img src="https://img.shields.io/github/last-commit/MirEashanZaman/pharma-trace?style=for-the-badge&label=PHARMATRACE&labelColor=0D0221&color=00F0FF" alt="pharmatrace last commit" />
+<img src="https://img.shields.io/github/last-commit/MirEashanZaman/Oil-Supply-Delivery-Management-System-Backend?style=for-the-badge&label=OIL%20BACKEND&labelColor=0D0221&color=FCEE0A" alt="oil backend last commit" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MirEashanZaman&bg_color=0D0221&color=00F0FF&line=FF00E5&point=FCEE0A&area=true&area_color=FF00E5&hide_border=true" alt="activity graph" />
+<img height="165" src="https://streak-stats.demolab.com/?user=MirEashanZaman&theme=synthwave&hide_border=true&background=0D0221&ring=FF00E5&fire=FCEE0A&currStreakLabel=00F0FF" alt="streak" />
 
 <br/><br/>
 
