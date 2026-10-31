@@ -1,37 +1,62 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0D0221,50:FF00E5,100:00F0FF&text=MIR%20EASHAN%20ZAMAN&fontSize=48&fontColor=FCEE0A&fontAlign=50&fontAlignY=42&desc=//%20FULL-STACK%20%E2%80%A2%20AI%20AGENTS%20%E2%80%A2%20BLOCKCHAIN%20%E2%80%A2%20FINTECH&descSize=16&descColor=00F0FF&descAlignY=65&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0D0221,50:FF00E5,100:00F0FF&text=MIR%20EASHAN%20ZAMAN&fontSize=50&fontColor=FCEE0A&fontAlign=50&fontAlignY=42&desc=PLAYER%20ONE%20%E2%80%A2%20FULL-STACK%20%E2%80%A2%20AI%20AGENTS%20%E2%80%A2%20BLOCKCHAIN&descSize=16&descColor=00F0FF&descAlignY=65&animation=fadeIn" alt="header" />
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2800&pause=900&color=00F0FF&background=0D022100&center=true&vCenter=true&width=820&height=50&lines=%3E+booting+eashan.exe+...;%3E+Full-Stack+%26+Distributed+Systems+Engineer;%3E+Autonomous+AI+Agents+%7C+Blockchain+%7C+FinTech;%3E+FinTechathon+2026+Innovator;%3E+status%3A+ONLINE+%F0%9F%9F%A2" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=2800&pause=900&color=00F0FF&background=0D022100&center=true&vCenter=true&width=860&height=55&lines=%3E+PRESS+START;%3E+LOADING+PLAYER+ONE...;%3E+FULL-STACK+%7C+DISTRIBUTED+SYSTEMS;%3E+AI+AGENTS+%7C+BLOCKCHAIN+%7C+FINTECH;%3E+STATUS%3A+ONLINE" alt="typing" />
 </a>
 
-<br/>
+<br/><br/>
 
-<a href="https://github.com/MirEashanZaman"><img src="https://img.shields.io/badge/GITHUB-0D0221?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D0221&color=FF00E5" /></a>
-<a href="https://linkedin.com/in/mir-eashan-zaman-319474343"><img src="https://img.shields.io/badge/LINKEDIN-0D0221?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=0D0221&color=FF00E5" /></a>
-<a href="https://mireashanzaman.github.io/MirEashanZaman-Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-0D0221?style=for-the-badge&logo=googlechrome&logoColor=FCEE0A&labelColor=0D0221&color=00F0FF" /></a>
+<a href="https://github.com/MirEashanZaman"><img src="https://img.shields.io/badge/GITHUB-0D0221?style=for-the-badge&logo=github&logoColor=00F0FF&color=FF00E5" /></a>
+<a href="https://linkedin.com/in/mir-eashan-zaman-319474343"><img src="https://img.shields.io/badge/LINKEDIN-0D0221?style=for-the-badge&logo=linkedin&logoColor=00F0FF&color=FF00E5" /></a>
+<a href="https://mireashanzaman.github.io/MirEashanZaman-Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-0D0221?style=for-the-badge&logo=googlechrome&logoColor=FCEE0A&color=00F0FF" /></a>
 
 </div>
 
 <br/>
 
-## `>_ SYSTEM.BOOT`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:0D0221,100:FF00E5&text=BOOT%20SEQUENCE&fontSize=28&fontColor=FCEE0A&animation=fadeIn&stroke=00F0FF&strokeWidth=2" alt="boot sequence" />
 
-```ansi
-[ OK ] identity ........ Mir Eashan Zaman
-[ OK ] role ............ Full-Stack Software & Distributed Systems Engineer
-[ OK ] core ............ NestJS | Next.js | PostgreSQL | Solidity
-[ OK ] focus ........... Autonomous AI Agents | Blockchain | FinTech | Logistics
-[ OK ] security ........ Scrypt | SHA-256 | 2FA OTP
-[ OK ] arcade .......... 4 browser games deployed
-[WARN] coffee .......... low. refill needed.
-> all systems nominal_
+```diff
++ [ OK ]  identity ...... Mir Eashan Zaman
++ [ OK ]  role .......... Full-Stack Software & Distributed Systems Engineer
++ [ OK ]  core .......... NestJS | Next.js | PostgreSQL | Solidity
++ [ OK ]  focus ......... Autonomous AI Agents | Blockchain | FinTech | Logistics
++ [ OK ]  security ...... Scrypt | SHA-256 | 2FA OTP
++ [ OK ]  arcade ........ 4 browser games online
+- [WARN]  coffee ........ low. refill needed.
+! all systems nominal_
 ```
 
 <br/>
 
-## `>_ NOW.SHOWING`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:0D0221,100:00F0FF&text=PLAYER%20ONE&fontSize=28&fontColor=FCEE0A&animation=fadeIn&stroke=FF00E5&strokeWidth=2" alt="player one" />
+
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/NAME-MIR%20EASHAN%20ZAMAN-FF00E5?style=for-the-badge&labelColor=0D0221" /><br/>
+      <img src="https://img.shields.io/badge/CLASS-FULL--STACK%20ENGINEER-00F0FF?style=for-the-badge&labelColor=0D0221" /><br/>
+      <img src="https://img.shields.io/badge/SUBCLASS-AI%20%2B%20WEB3%20MAGE-FCEE0A?style=for-the-badge&labelColor=0D0221" /><br/>
+      <img src="https://img.shields.io/badge/GUILD-FINTECHATHON%202026-FF00E5?style=for-the-badge&labelColor=0D0221" /><br/>
+      <img src="https://img.shields.io/badge/WEAPONS-NESTJS%20%7C%20NEXT.JS%20%7C%20SOLIDITY-00F0FF?style=for-the-badge&labelColor=0D0221" />
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/BACKEND-LVL%208%20%2F%2010-FF00E5?style=for-the-badge&labelColor=0D0221" /><br/>
+      <img src="https://img.shields.io/badge/FRONTEND-LVL%208%20%2F%2010-00F0FF?style=for-the-badge&labelColor=0D0221" /><br/>
+      <img src="https://img.shields.io/badge/AI%20AGENTS-LVL%207%20%2F%2010-FCEE0A?style=for-the-badge&labelColor=0D0221" /><br/>
+      <img src="https://img.shields.io/badge/BLOCKCHAIN-LVL%207%20%2F%2010-FF00E5?style=for-the-badge&labelColor=0D0221" /><br/>
+      <img src="https://img.shields.io/badge/DEVOPS-LVL%206%20%2F%2010-00F0FF?style=for-the-badge&labelColor=0D0221" /><br/>
+      <img src="https://img.shields.io/badge/HP-100%25-00FF9C?style=for-the-badge&labelColor=0D0221" />
+      <img src="https://img.shields.io/badge/MP-70%25-8A2BE2?style=for-the-badge&labelColor=0D0221" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D0221,50:8A2BE2,100:FF00E5&text=THE%20FULL-STACK%20CHRONICLES&fontSize=36&fontColor=FCEE0A&fontAlignY=40&desc=A%20MIR%20EASHAN%20ZAMAN%20FILM%20%E2%80%A2%20NOW%20SHOWING&descSize=15&descColor=00F0FF&descAlignY=62&animation=fadeIn" alt="movie poster" />
 
 <div align="center">
 
@@ -39,55 +64,33 @@
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3200&pause=1000&color=FF00E5&background=0D022100&center=true&vCenter=true&width=760&height=40&lines=IN+A+WORLD+OF+MESSY+PAYMENTS...;ONE+DEVELOPER+BUILT+AN+AI+AGENT+WITH+GUARDRAILS.;SAGAS.+SMART+CONTRACTS.+ZERO+BALANCE+BUGS.;COMING+TO+A+REPO+NEAR+YOU." alt="trailer" />
 </a>
 
+<br/>
+
+<img src="https://img.shields.io/badge/IMDb-9.9%2F10-F5C518?style=for-the-badge&logo=imdb&logoColor=black&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/ROTTEN%20TOMATOES-100%25-FA320A?style=for-the-badge&logo=rottentomatoes&logoColor=white&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/RATED-PG--13%20(HEAVY%20REFACTORING)-FF00E5?style=for-the-badge&labelColor=0D0221" />
+
+<br/><br/>
+
+<sub><b>STARRING</b></sub><br/>
+<img src="https://img.shields.io/badge/NestJS-0D0221?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
+<img src="https://img.shields.io/badge/Next.js-0D0221?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-0D0221?style=for-the-badge&logo=postgresql&logoColor=4B8BBE" />
+<img src="https://img.shields.io/badge/Solidity-0D0221?style=for-the-badge&logo=solidity&logoColor=white" />
+
+<sub><b>CO-STARRING</b></sub><br/>
+<img src="https://img.shields.io/badge/Gemini%20AI-0D0221?style=for-the-badge&logo=googlegemini&logoColor=8E75C2" />
+<img src="https://img.shields.io/badge/Redis-0D0221?style=for-the-badge&logo=redis&logoColor=DC382D" />
+<img src="https://img.shields.io/badge/Docker-0D0221?style=for-the-badge&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-0D0221?style=for-the-badge&logo=github-actions&logoColor=2088FF" />
+
+<sub>FILMED ON LOCATION: localhost:3000</sub>
+
 </div>
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                  MIR EASHAN ZAMAN  PRESENTS                  ║
-║                                                              ║
-║            ▓▓▓  T H E   F U L L - S T A C K  ▓▓▓             ║
-║            ▓▓▓      C H R O N I C L E S       ▓▓▓            ║
-║                                                              ║
-║      "A gripping tale of APIs, agents and blockchains."      ║
-║                  - the Terminal Times                        ║
-║                                                              ║
-╠══════════════════════════════════════════════════════════════╣
-║  STARRING ........ NestJS  |  Next.js  |  PostgreSQL         ║
-║  CO-STARRING ..... Solidity  |  Gemini AI  |  Redis          ║
-║  STUNTS BY ....... Docker  |  GitHub Actions                 ║
-║  FILMED ON ....... localhost:3000                            ║
-║  RATED ........... PG-13 (contains heavy refactoring)        ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
 <br/>
 
-## `>_ PLAYER.ONE`
-
-```text
-╔═════════════════════ CHARACTER SHEET ═════════════════════╗
-  NAME     : Mir Eashan Zaman
-  CLASS    : Full-Stack Engineer  //  AI + Web3 Mage
-  GUILD    : FinTechathon 2026 (International Track)
-  WEAPONS  : NestJS, Next.js, Solidity, PostgreSQL
-
-  ── ATTRIBUTES ──────────────────────────────────────────
-  BACKEND     ████████████████░░░░  80%
-  FRONTEND    ████████████████░░░░  80%
-  AI AGENTS   ███████████████░░░░░  75%
-  BLOCKCHAIN  ██████████████░░░░░░  70%
-  DEVOPS      █████████████░░░░░░░  65%
-
-  HP  ████████████████████  100%
-  MP  ██████████████░░░░░░   70%   (needs coffee)
-  XP  ███████████████░░░░░   next level loading...
-╚════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-## `>_ NETWORK.TOPOLOGY`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:0D0221,100:00F0FF&text=WORLD%20MAP&fontSize=28&fontColor=FCEE0A&animation=fadeIn&stroke=FF00E5&strokeWidth=2" alt="world map" />
 
 ```
  ┌──────────────┐   REST / WSS    ┌──────────────────────┐
@@ -100,10 +103,10 @@
 
 <br/>
 
-## `>_ MISSIONS.LOG`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:0D0221,100:FF00E5&text=MISSION%20LOG&fontSize=28&fontColor=FCEE0A&animation=fadeIn&stroke=00F0FF&strokeWidth=2" alt="mission log" />
 
-### 🎓 MISSION 01 // Student Tuition Payment Agent
-![FinTechathon](https://img.shields.io/badge/FINTECHATHON%202026-INTERNATIONAL%20TRACK-FF00E5?style=for-the-badge&labelColor=0D0221)
+### 🎓 STAGE 01 // Student Tuition Payment Agent
+![Stage](https://img.shields.io/badge/STAGE%2001-CLEARED-00FF9C?style=for-the-badge&labelColor=0D0221) ![FinTechathon](https://img.shields.io/badge/FINTECHATHON%202026-INTERNATIONAL%20TRACK-FF00E5?style=for-the-badge&labelColor=0D0221)
 
 > *Autonomous cross-border student remittance & FX assistant.*
 > Built with a teammate for international students paying foreign tuition from Bangladesh (BDT). Runs in a simulated sandbox, no live bank rails.
@@ -121,8 +124,8 @@
 
 ---
 
-### 🛢️ MISSION 02 // Oil Supply & Delivery Platform
-![Production](https://img.shields.io/badge/STATUS-LIVE%20PRODUCTION-00FF9C?style=for-the-badge&labelColor=0D0221)
+### 🛢️ STAGE 02 // Oil Supply & Delivery Platform
+![Stage](https://img.shields.io/badge/STAGE%2002-CLEARED-00FF9C?style=for-the-badge&labelColor=0D0221) ![Production](https://img.shields.io/badge/STATUS-LIVE%20PRODUCTION-00F0FF?style=for-the-badge&labelColor=0D0221)
 
 > *Downstream petroleum supply chain, telematics & ERP.*
 > Bulk fuel allocations, tanker fleets, automated Bill of Lading and customer fulfillment, across web and mobile.
@@ -138,8 +141,8 @@
 
 ---
 
-### 💊 MISSION 03 // PharmaTrace-ES
-![Blockchain](https://img.shields.io/badge/BLOCKCHAIN-SOLIDITY%20%7C%20EVM-8A2BE2?style=for-the-badge&labelColor=0D0221)
+### 💊 STAGE 03 // PharmaTrace-ES
+![Stage](https://img.shields.io/badge/STAGE%2003-CLEARED-00FF9C?style=for-the-badge&labelColor=0D0221) ![Blockchain](https://img.shields.io/badge/BLOCKCHAIN-SOLIDITY%20%7C%20EVM-8A2BE2?style=for-the-badge&labelColor=0D0221)
 
 > *Anti-counterfeit pharma track-and-trace on blockchain.*
 > Follows a medicine from manufacturer to pharmacy so fakes are easy to catch. Designed around FDA 21 CFR Part 11, EU GxP Annex 11 and US DSCSA.
@@ -154,11 +157,16 @@
 
 [![Repo](https://img.shields.io/badge/%E2%96%B6%20REPO-00F0FF?style=flat-square&labelColor=0D0221)](https://github.com/MirEashanZaman/pharma-trace)
 
+---
+
+### 🔒 STAGE 04 // ???
+![Stage](https://img.shields.io/badge/STAGE%2004-LOCKED-FF00E5?style=for-the-badge&labelColor=0D0221) ![Next](https://img.shields.io/badge/NEXT%20MISSION-LOADING...-FCEE0A?style=for-the-badge&labelColor=0D0221)
+
 <br/>
 
-## `>_ LOADOUT.INSTALLED`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:0D0221,100:00F0FF&text=INVENTORY&fontSize=28&fontColor=FCEE0A&animation=fadeIn&stroke=FF00E5&strokeWidth=2" alt="inventory" />
 
-| SLOT | MODULES |
+| SLOT | ITEMS |
 | :--- | :--- |
 | 🤖 **AI & FinTech** | ![Gemini](https://img.shields.io/badge/Google%20Gemini-0D0221?style=flat-square&logo=googlegemini&logoColor=8E75C2) ![Agents](https://img.shields.io/badge/Autonomous%20Agents-0D0221?style=flat-square&logo=probot&logoColor=00F0FF) ![Guardrails](https://img.shields.io/badge/Safety%20Guardrails-0D0221?style=flat-square&logo=shield&logoColor=FF00E5) ![Scrypt](https://img.shields.io/badge/Scrypt%20%26%20SHA--256-0D0221?style=flat-square&logo=auth0&logoColor=FCEE0A) |
 | ⛓️ **Blockchain** | ![Solidity](https://img.shields.io/badge/Solidity-0D0221?style=flat-square&logo=solidity&logoColor=white) ![Hardhat](https://img.shields.io/badge/Hardhat-0D0221?style=flat-square&logo=hardhat&logoColor=FFF100) ![Ethers](https://img.shields.io/badge/Ethers.js-0D0221?style=flat-square&logo=ethereum&logoColor=white) ![ERC721](https://img.shields.io/badge/ERC--721-0D0221?style=flat-square&logo=ethereum&logoColor=00F0FF) ![ZK](https://img.shields.io/badge/Zero--Knowledge%20Proofs-0D0221?style=flat-square&logoColor=6D28D9&color=6D28D9) |
@@ -168,7 +176,7 @@
 
 <br/>
 
-## `>_ ACHIEVEMENTS.UNLOCKED`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:0D0221,100:FF00E5&text=ACHIEVEMENTS&fontSize=28&fontColor=FCEE0A&animation=fadeIn&stroke=00F0FF&strokeWidth=2" alt="achievements" />
 
 | | ACHIEVEMENT | STATUS |
 | :---: | :--- | :---: |
@@ -178,18 +186,18 @@
 | 📱 | **Native Android APK released** | ![](https://img.shields.io/badge/UNLOCKED-00FF9C?style=flat-square&labelColor=0D0221) |
 | 🕶️ | **Built a Groth16 zero-knowledge proof** | ![](https://img.shields.io/badge/UNLOCKED-00FF9C?style=flat-square&labelColor=0D0221) |
 | 🎮 | **4 browser games deployed** | ![](https://img.shields.io/badge/UNLOCKED-00FF9C?style=flat-square&labelColor=0D0221) |
-| 🔒 | **???  (next mission)** | ![](https://img.shields.io/badge/LOCKED-FF00E5?style=flat-square&labelColor=0D0221) |
+| 🔒 | **???** | ![](https://img.shields.io/badge/LOCKED-FF00E5?style=flat-square&labelColor=0D0221) |
 
 <br/>
 
-## `>_ ARCADE.EXE`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:0D0221,100:00F0FF&text=ARCADE%20-%20PICK%20A%20GAME&fontSize=28&fontColor=FCEE0A&animation=fadeIn&stroke=FF00E5&strokeWidth=2" alt="arcade" />
 
 <div align="center">
 
 | ♟️ CHESS-MASTER | ⚡ NEON-STRIKE | 🐍 SNAKE NOSTALGIA | 🏃 SKY-DASHER |
 | :---: | :---: | :---: | :---: |
 | Move validation & check engine | Particle physics & neon UI | Responsive grid collision | Procedural physics platformer |
-| [**▶ PLAY**](https://chess-master-play.netlify.app/) | [**▶ PLAY**](https://neon-strike01.netlify.app/) | [**▶ PLAY**](https://snake-game-nostalgia.netlify.app/) | [**▶ PLAY**](https://sky-dasher.netlify.app/) |
+| [![Play](https://img.shields.io/badge/%E2%96%B6%20PLAY-FF00E5?style=for-the-badge&labelColor=0D0221)](https://chess-master-play.netlify.app/) | [![Play](https://img.shields.io/badge/%E2%96%B6%20PLAY-00F0FF?style=for-the-badge&labelColor=0D0221)](https://neon-strike01.netlify.app/) | [![Play](https://img.shields.io/badge/%E2%96%B6%20PLAY-FCEE0A?style=for-the-badge&labelColor=0D0221)](https://snake-game-nostalgia.netlify.app/) | [![Play](https://img.shields.io/badge/%E2%96%B6%20PLAY-00FF9C?style=for-the-badge&labelColor=0D0221)](https://sky-dasher.netlify.app/) |
 
 </div>
 
@@ -211,7 +219,7 @@
 
 <br/>
 
-## `>_ LIVE.TELEMETRY`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:0D0221,100:FF00E5&text=LIVE%20TELEMETRY&fontSize=28&fontColor=FCEE0A&animation=fadeIn&stroke=00F0FF&strokeWidth=2" alt="telemetry" />
 
 <div align="center">
 
@@ -228,24 +236,14 @@
 <img src="https://komarev.com/ghpvc/?username=MirEashanZaman&label=SYSTEM%20VISITS&color=FF00E5&style=for-the-badge&labelColor=0D0221" alt="views" />
 <img src="https://img.shields.io/github/followers/MirEashanZaman?style=for-the-badge&logo=github&color=00F0FF&labelColor=0D0221" alt="followers" />
 
-</div>
+<br/><br/>
 
-<div align="center">
-
-```text
-  ╔══════════════════════════════════════╗
-  ║                                      ║
-  ║           G A M E   O V E R ?        ║
-  ║                                      ║
-  ║      CONTINUE?   9 . 8 . 7 . .       ║
-  ║                                      ║
-  ║    >> INSERT COIN TO COLLABORATE <<  ║
-  ║                                      ║
-  ╚══════════════════════════════════════╝
-```
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=2500&pause=700&color=FF00E5&background=0D022100&center=true&vCenter=true&width=700&height=50&lines=GAME+OVER%3F;CONTINUE%3F+9...+8...+7...;INSERT+COIN+TO+COLLABORATE" alt="continue" />
+</a>
 
 <a href="https://linkedin.com/in/mir-eashan-zaman-319474343"><img src="https://img.shields.io/badge/%E2%96%B6%20PRESS%20START-FF00E5?style=for-the-badge&labelColor=0D0221" alt="press start" /></a>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:00F0FF,50:FF00E5,100:0D0221&section=footer&text=//%20END%20OF%20TRANSMISSION&fontSize=18&fontColor=FCEE0A&fontAlignY=70" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F0FF,50:FF00E5,100:0D0221&section=footer&text=%2F%2F%20END%20OF%20TRANSMISSION&fontSize=18&fontColor=FCEE0A&fontAlignY=70" alt="footer" />
