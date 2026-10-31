@@ -228,7 +228,7 @@
 **NIGHT CITY TIME TRIAL**  
 *One minute. One target. Can you beat the clock?*
 
-[![PLAY CHRONO RUN](https://img.shields.io/badge/%E2%96%B6%20PLAY%20CHRONO%20RUN-FF00E5?style=for-the-badge&labelColor=0D0221)](./chrono-game.html)
+[![PLAY CHRONO RUN](https://img.shields.io/badge/%E2%96%B6%20PLAY%20CHRONO%20RUN-FF00E5?style=for-the-badge&labelColor=0D0221)](https://mireashanzaman.github.io/chrono-game.html)
 
 </div>
 
