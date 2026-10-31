@@ -1,274 +1,166 @@
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0D0221,50:FF00E5,100:00F0FF&text=MIR%20EASHAN%20ZAMAN&fontSize=48&fontColor=FCEE0A&fontAlign=50&fontAlignY=42&desc=//%20FULL-STACK%20%E2%80%A2%20AI%20AGENTS%20%E2%80%A2%20BLOCKCHAIN%20%E2%80%A2%20FINTECH&descSize=16&descColor=00F0FF&descAlignY=65&animation=fadeIn" alt="header" />
 
-# 👨‍💻 Mir Eashan Zaman
+<div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&width=750&height=50&lines=Full-Stack+Software+%26+Distributed+Systems+Engineer;Autonomous+AI+Agents+%E2%80%A2+Blockchain+%E2%80%A2+FinTech;Next.js+%E2%80%A2+React+19+%E2%80%A2+NestJS+%E2%80%A2+PostgreSQL+%E2%80%A2+Solidity;FinTechathon+2026+Innovator+%E2%80%A2+Saga+Workflows" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2800&pause=900&color=00F0FF&background=0D022100&center=true&vCenter=true&width=820&height=50&lines=%3E+booting+eashan.exe+...;%3E+Full-Stack+%26+Distributed+Systems+Engineer;%3E+Autonomous+AI+Agents+%7C+Blockchain+%7C+FinTech;%3E+FinTechathon+2026+Innovator;%3E+status%3A+ONLINE+%F0%9F%9F%A2" alt="typing" />
 </a>
 
-<p align="center">
-  <b>Architecting enterprise distributed systems, autonomous AI agents, blockchain traceability, and real-time logistics.</b>
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/mir-eashan-zaman-319474343"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/MirEashanZaman"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://mireashanzaman.github.io/MirEashanZaman-Portfolio/"><img src="https://img.shields.io/badge/Portfolio%20Website-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-</p>
+<a href="https://github.com/MirEashanZaman"><img src="https://img.shields.io/badge/GITHUB-0D0221?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D0221&color=FF00E5" /></a>
+<a href="https://linkedin.com/in/mir-eashan-zaman-319474343"><img src="https://img.shields.io/badge/LINKEDIN-0D0221?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=0D0221&color=FF00E5" /></a>
+<a href="https://mireashanzaman.github.io/MirEashanZaman-Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-0D0221?style=for-the-badge&logo=googlechrome&logoColor=FCEE0A&labelColor=0D0221&color=00F0FF" /></a>
 
 </div>
 
+<br/>
 
----
+## `>_ SYSTEM.BOOT`
 
-### ⚡ `whoami.sh`
-
-```bash
-zaman@runtime:~$ neofetch --engineer
-  ______           _                 OS:       Distributed Enterprise Architecture
- |  ____|         | |                Focus:    Autonomous AI Agents • Blockchain • FinTech
- | |__   __ _ ___ | |__   __ _ _ __  Backend:  NestJS • TypeORM • PostgreSQL • Redis
- |  __| / _` / __|| '_ \ / _` | '_ \ Frontend: Next.js • React 19 • TypeScript
- | |___| (_| \__ \| | | | (_| | | | |Chain:    Solidity • Hardhat • Ethers.js • EVM
- |______\__,_|___/|_| |_|\__,_|_| |_|Security: Scrypt • SHA-256 Signatures • 2FA OTP
+```ansi
+[ OK ] identity ........ Mir Eashan Zaman
+[ OK ] role ............ Full-Stack Software & Distributed Systems Engineer
+[ OK ] core ............ NestJS | Next.js | PostgreSQL | Solidity
+[ OK ] focus ........... Autonomous AI Agents | Blockchain | FinTech | Logistics
+[ OK ] security ........ Scrypt | SHA-256 | 2FA OTP
+[ OK ] arcade .......... 4 browser games deployed
+[WARN] coffee .......... low. refill needed.
+> all systems nominal_
 ```
 
----
+<br/>
 
-## 🏛️ System Architecture Blueprint
+## `>_ NETWORK.TOPOLOGY`
 
 ```
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│                                 DISTRIBUTED TOPOLOGY                                   │
-│                                                                                        │
-│   [ Next.js Web ] ───REST / WSS────┐                                                   │
-│                                    ▼                                                   │
-│   [ Android Mobile ] ──────► [ NestJS API Gateway ] ──► [ Guardrails / Scrypt Auth ]   │
-│                                     │                                                  │
-│                                     ├──► [ Saga Orchestrator ] ──► [ PostgreSQL DB ]   │
-│                                     ├──► [ Gemini AI Agent ]   ──► [ Route Optimizer ] │
-│                                     ├──► [ EVM Smart Contracts ] ► [ Batch Attestation]│
-│                                     └──► [ Real-time Radar ]   ──► [ Pusher Engine ]   │
-└────────────────────────────────────────────────────────────────────────────────────────┘
+ ┌──────────────┐   REST / WSS    ┌──────────────────────┐
+ │ Next.js Web  │ ──────────────► │                      │ ──► [ Guardrails + Scrypt Auth ]
+ ├──────────────┤                 │   NestJS API GATEWAY │ ──► [ Saga Orchestrator ] ──► [ PostgreSQL ]
+ │ Android App  │ ──────────────► │                      │ ──► [ Gemini AI Agent ] ──► [ Route Optimizer ]
+ └──────────────┘                 │                      │ ──► [ EVM Smart Contracts ] ► [ Batch Attestation ]
+                                  └──────────────────────┘ ──► [ Real-time Radar ] ──► [ Pusher Engine ]
 ```
 
----
+<br/>
 
-## 🏆 Featured Flagship Systems (Bento Showcase)
+## `>_ MISSIONS.LOG`
 
-<table>
-  <tr>
-    <!-- STUDENT TUITION PAYMENT AGENT -->
-    <td width="50%" valign="top">
-      <div align="center">
-        <br/>
-        <img src="https://img.shields.io/badge/FinTechathon%202026-International%20Track-4F46E5?style=for-the-badge&logo=trophy&logoColor=white" alt="FinTechathon"/>
-        <h3>🎓 Student Tuition Payment Agent</h3>
-        <p><i>Autonomous Cross-Border Student Remittance & FX Assistant</i></p>
-      </div>
-      <p>
-        Built with a teammate for international students paying foreign tuition from Bangladesh (BDT). Replaces fragmented bank visits with an autonomous agent governed by strict safety policies and idempotent financial state machines. Runs in a simulated sandbox (no live bank rails).
-      </p>
-      <b>🛡️ Hardened Security & Compliance:</b>
-      <ul>
-        <li><b>3-Tier Permission Matrix:</b> <code>READ_ONLY</code>, <code>DRAFT</code>, and <code>EXECUTE</code>. The LLM is strictly prohibited from unilateral fund movements.</li>
-        <li><b>Safety Pipeline:</b> Chain of Responsibility checks (injection, permission, anomaly, limit, confirmation) before any transfer.</li>
-        <li><b>Saga State Machine:</b> Multi-step transfer lifecycle with rollback triggers to guarantee zero balance inconsistencies.</li>
-        <li><b>Cryptographic Integrity:</b> <code>scrypt</code> password hashing, SHA-256 transaction fingerprinting & dynamic Step-Up 2FA OTP.</li>
-        <li><b>TypeScript Vector Engine:</b> Generates verifiable A4 PDF payment certificates with embedded checksums.</li>
-        <li><b>Verified:</b> 80 automated tests and a GitHub Actions CI pipeline.</li>
-      </ul>
-      <b>Tech Stack:</b><br/>
-      <code>NestJS</code> <code>Next.js 14</code> <code>Gemini AI</code> <code>PostgreSQL</code> <code>Docker</code> <code>Zod</code>
-      <br/><br/>
-      <div align="center">
-        <a href="https://github.com/MirEashanZaman/student-tuition-payment-agent">
-          <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github" alt="Repo"/>
-        </a>
-        <a href="https://drive.google.com/drive/folders/1lggYZhSiE72cKdziaNC_jzMLKfl3iRHt?usp=drive_link">
-          <img src="https://img.shields.io/badge/Video%20Walkthrough-EA4335?style=flat-square&logo=google-drive&logoColor=white" alt="Video Demo"/>
-        </a>
-        <a href="https://github.com/MirEashanZaman/student-tuition-payment-agent/blob/main/docs/DEMO_SCRIPT.md">
-          <img src="https://img.shields.io/badge/Demo%20Script-4285F4?style=flat-square&logo=gitbook&logoColor=white" alt="Script"/>
-        </a>
-      </div>
-      <br/>
-    </td>
-    <!-- OIL SUPPLY & DELIVERY ERP -->
-    <td width="50%" valign="top">
-      <div align="center">
-        <br/>
-        <img src="https://img.shields.io/badge/Production%20System-Active%20Platform-059669?style=for-the-badge&logo=vercel&logoColor=white" alt="Production"/>
-        <h3>🛢️ Oil Supply & Delivery Platform</h3>
-        <p><i>Downstream Petroleum Supply Chain, Telematics & ERP</i></p>
-      </div>
-      <p>
-        Full enterprise-scale petroleum distribution platform managing bulk fuel allocations, tanker fleets, automated Bill of Lading (BOL), and end-customer fulfillment across web and mobile.
-      </p>
-      <b>⚡ High-Throughput Engineering:</b>
-      <ul>
-        <li><b>Fleet Telematics Radar:</b> Live GPS coordinate broadcasting, tanker route plotting, and driver geofencing.</li>
-        <li><b>Real-Time Event Duplex:</b> Integrated Pusher WebSockets for instant dispatch alerts, notifications, and customer-supplier chat.</li>
-        <li><b>Compliance Invoicing:</b> Automated ISO 9001/BOL compliance generation with digital e-POD signature verification.</li>
-        <li><b>Cross-Platform Deployment:</b> High-performance Next.js 16 Web portal + native Android APK via Capacitor.</li>
-      </ul>
-      <b>Tech Stack:</b><br/>
-      <code>Next.js 16</code> <code>React 19</code> <code>NestJS</code> <code>TypeORM</code> <code>PostgreSQL</code> <code>Capacitor</code>
-      <br/><br/>
-      <div align="center">
-        <a href="https://oil-supply-and-delivery-management.vercel.app/">
-          <img src="https://img.shields.io/badge/Live%20Platform-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo"/>
-        </a>
-        <a href="https://drive.google.com/file/d/17powG4Vv6PfM3D-qfFs0M61HPuJGXPQc/view?usp=drive_link">
-          <img src="https://img.shields.io/badge/Download%20APK-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Download APK"/>
-        </a>
-        <a href="https://github.com/MirEashanZaman/oil-supply-and-delivery-management-system-frontend">
-          <img src="https://img.shields.io/badge/Frontend%20Repo-181717?style=flat-square&logo=github" alt="Frontend Repo"/>
-        </a>
-        <a href="https://github.com/MirEashanZaman/Oil-Supply-Delivery-Management-System-Backend">
-          <img src="https://img.shields.io/badge/Backend%20Repo-181717?style=flat-square&logo=github" alt="Backend Repo"/>
-        </a>
-      </div>
-      <br/>
-    </td>
-  </tr>
-  <tr>
-    <!-- PHARMATRACE-ES -->
-    <td colspan="2" valign="top">
-      <div align="center">
-        <br/>
-        <img src="https://img.shields.io/badge/Blockchain-Solidity%20%7C%20EVM-363636?style=for-the-badge&logo=ethereum&logoColor=white" alt="Blockchain"/>
-        <h3>💊 PharmaTrace-ES</h3>
-        <p><i>Anti-Counterfeit Pharmaceutical Track-and-Trace on Blockchain</i></p>
-      </div>
-      <p>
-        An event-driven platform that follows a medicine from manufacturer to pharmacy so counterfeits are easy to catch. Designed with FDA 21 CFR Part 11, EU GxP Annex 11, and US DSCSA requirements in mind.
-      </p>
-      <b>⛓️ Traceability & Smart Contracts:</b>
-      <ul>
-        <li><b>Custody Saga:</b> Event Sourcing, CQRS, and Saga orchestration for multi-party handovers with compensating rollbacks.</li>
-        <li><b>Solidity Suite:</b> Batch hash anchoring, ERC-721 burn-on-dispense, automated cold-chain escrow, and carrier staking with slashing.</li>
-        <li><b>Zero-Knowledge Privacy:</b> Groth16 proof that a shipment stayed within 2–8 °C without exposing formulation data.</li>
-        <li><b>Audit-Ready Backend:</b> Request audit interceptor, rate limiting, sanitized exception filter, and Swagger docs.</li>
-        <li><b>Web3 Frontend:</b> Next.js 14 portals with an interactive provenance graph and live telemetry dashboard.</li>
-      </ul>
-      <b>Tech Stack:</b><br/>
-      <code>NestJS</code> <code>Next.js 14</code> <code>Solidity</code> <code>Hardhat</code> <code>Ethers.js</code> <code>PostgreSQL</code> <code>Redis</code> <code>Docker</code>
-      <br/><br/>
-      <div align="center">
-        <a href="https://github.com/MirEashanZaman/pharma-trace">
-          <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github" alt="Repo"/>
-        </a>
-      </div>
-      <br/>
-    </td>
-  </tr>
-</table>
+### 🎓 MISSION 01 // Student Tuition Payment Agent
+![FinTechathon](https://img.shields.io/badge/FINTECHATHON%202026-INTERNATIONAL%20TRACK-FF00E5?style=for-the-badge&labelColor=0D0221)
+
+> *Autonomous cross-border student remittance & FX assistant.*
+> Built with a teammate for international students paying foreign tuition from Bangladesh (BDT). Runs in a simulated sandbox, no live bank rails.
+
+- 🔐 **3-Tier Permission Matrix:** `READ_ONLY` / `DRAFT` / `EXECUTE`. The LLM can never move funds on its own.
+- 🛡️ **Safety Pipeline:** injection, permission, anomaly, limit and confirmation checks before any transfer.
+- 🔄 **Saga State Machine:** multi-step transfers with rollback, so balances never go out of sync.
+- 🔑 **Crypto Integrity:** `scrypt` hashing, SHA-256 transaction fingerprints, step-up 2FA OTP.
+- 📄 **Vector Engine:** verifiable A4 PDF payment certificates with embedded checksums.
+- ✅ **80 automated tests** + GitHub Actions CI.
+
+![NestJS](https://img.shields.io/badge/NestJS-0D0221?style=flat-square&logo=nestjs&logoColor=E0234E) ![Next.js](https://img.shields.io/badge/Next.js%2014-0D0221?style=flat-square&logo=next.js&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini%20AI-0D0221?style=flat-square&logo=googlegemini&logoColor=8E75C2) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0221?style=flat-square&logo=postgresql&logoColor=4B8BBE) ![Docker](https://img.shields.io/badge/Docker-0D0221?style=flat-square&logo=docker&logoColor=2496ED) ![Zod](https://img.shields.io/badge/Zod-0D0221?style=flat-square&logo=zod&logoColor=3E67B1)
+
+[![Repo](https://img.shields.io/badge/%E2%96%B6%20REPO-00F0FF?style=flat-square&labelColor=0D0221)](https://github.com/MirEashanZaman/student-tuition-payment-agent) [![Video](https://img.shields.io/badge/%E2%96%B6%20VIDEO%20WALKTHROUGH-FF00E5?style=flat-square&labelColor=0D0221)](https://drive.google.com/drive/folders/1lggYZhSiE72cKdziaNC_jzMLKfl3iRHt?usp=drive_link) [![Script](https://img.shields.io/badge/%E2%96%B6%20DEMO%20SCRIPT-FCEE0A?style=flat-square&labelColor=0D0221)](https://github.com/MirEashanZaman/student-tuition-payment-agent/blob/main/docs/DEMO_SCRIPT.md)
 
 ---
 
-## 🛠️ Technical Capability Matrix
+### 🛢️ MISSION 02 // Oil Supply & Delivery Platform
+![Production](https://img.shields.io/badge/STATUS-LIVE%20PRODUCTION-00FF9C?style=for-the-badge&labelColor=0D0221)
 
-<table>
-  <tr>
-    <td width="20%"><b>🤖 AI & FinTech</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Google%20Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Autonomous%20Agents-00A67E?style=flat-square&logo=probot&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Safety%20Guardrails-DC2626?style=flat-square&logo=shield&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Scrypt%20%26%20SHA--256-0F172A?style=flat-square&logo=auth0&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PDF%20Vector%20Engine-EA580C?style=flat-square&logo=adobeacrobatreader&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>⛓️ Blockchain & Web3</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white"/>
-      <img src="https://img.shields.io/badge/ERC--721-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Zero--Knowledge%20Proofs-6D28D9?style=flat-square"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>🌐 Frontend & Mobile</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white"/>
-      <img src="https://img.shields.io/badge/HTML5%20Canvas-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>⚙️ Backend & Systems</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-      <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Pusher%20WebSockets-300D4F?style=flat-square&logo=pusher&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>🗄️ Data & Cloud</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQL%20Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+> *Downstream petroleum supply chain, telematics & ERP.*
+> Bulk fuel allocations, tanker fleets, automated Bill of Lading and customer fulfillment, across web and mobile.
+
+- 📡 **Fleet Telematics Radar:** live GPS broadcast, tanker route plotting, driver geofencing.
+- ⚡ **Real-Time Duplex:** Pusher WebSockets for dispatch alerts, notifications and customer-supplier chat.
+- 🧾 **Compliance Invoicing:** ISO 9001 / BOL generation with digital e-POD signature verification.
+- 📱 **Cross-Platform:** Next.js 16 web portal + native Android APK via Capacitor.
+
+![Next.js](https://img.shields.io/badge/Next.js%2016-0D0221?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React%2019-0D0221?style=flat-square&logo=react&logoColor=61DAFB) ![NestJS](https://img.shields.io/badge/NestJS-0D0221?style=flat-square&logo=nestjs&logoColor=E0234E) ![TypeORM](https://img.shields.io/badge/TypeORM-0D0221?style=flat-square&logo=typeorm&logoColor=FE0803) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0221?style=flat-square&logo=postgresql&logoColor=4B8BBE) ![Capacitor](https://img.shields.io/badge/Capacitor-0D0221?style=flat-square&logo=capacitor&logoColor=119EFF)
+
+[![Live](https://img.shields.io/badge/%E2%96%B6%20LIVE%20PLATFORM-00F0FF?style=flat-square&labelColor=0D0221)](https://oil-supply-and-delivery-management.vercel.app/) [![APK](https://img.shields.io/badge/%E2%96%B6%20DOWNLOAD%20APK-00FF9C?style=flat-square&labelColor=0D0221)](https://drive.google.com/file/d/17powG4Vv6PfM3D-qfFs0M61HPuJGXPQc/view?usp=drive_link) [![Frontend](https://img.shields.io/badge/%E2%96%B6%20FRONTEND-FF00E5?style=flat-square&labelColor=0D0221)](https://github.com/MirEashanZaman/oil-supply-and-delivery-management-system-frontend) [![Backend](https://img.shields.io/badge/%E2%96%B6%20BACKEND-FCEE0A?style=flat-square&labelColor=0D0221)](https://github.com/MirEashanZaman/Oil-Supply-Delivery-Management-System-Backend)
 
 ---
 
-## 🎮 Interactive Arcade & Canvas Engineering
+### 💊 MISSION 03 // PharmaTrace-ES
+![Blockchain](https://img.shields.io/badge/BLOCKCHAIN-SOLIDITY%20%7C%20EVM-8A2BE2?style=for-the-badge&labelColor=0D0221)
+
+> *Anti-counterfeit pharma track-and-trace on blockchain.*
+> Follows a medicine from manufacturer to pharmacy so fakes are easy to catch. Designed around FDA 21 CFR Part 11, EU GxP Annex 11 and US DSCSA.
+
+- 🔗 **Custody Saga:** Event Sourcing, CQRS and Saga orchestration with compensating rollbacks.
+- 📜 **Solidity Suite:** batch hash anchoring, ERC-721 burn-on-dispense, cold-chain escrow, carrier staking with slashing.
+- 🕶️ **Zero-Knowledge Privacy:** Groth16 proof that a shipment stayed within 2-8 °C without exposing the formulation.
+- 🧾 **Audit-Ready Backend:** audit interceptor, rate limiting, sanitized exception filter, Swagger docs.
+- 🌐 **Web3 Frontend:** Next.js 14 portals, interactive provenance graph, live telemetry dashboard.
+
+![NestJS](https://img.shields.io/badge/NestJS-0D0221?style=flat-square&logo=nestjs&logoColor=E0234E) ![Next.js](https://img.shields.io/badge/Next.js%2014-0D0221?style=flat-square&logo=next.js&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-0D0221?style=flat-square&logo=solidity&logoColor=white) ![Hardhat](https://img.shields.io/badge/Hardhat-0D0221?style=flat-square&logo=hardhat&logoColor=FFF100) ![Ethers](https://img.shields.io/badge/Ethers.js-0D0221?style=flat-square&logo=ethereum&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0221?style=flat-square&logo=postgresql&logoColor=4B8BBE) ![Redis](https://img.shields.io/badge/Redis-0D0221?style=flat-square&logo=redis&logoColor=DC382D) ![Docker](https://img.shields.io/badge/Docker-0D0221?style=flat-square&logo=docker&logoColor=2496ED)
+
+[![Repo](https://img.shields.io/badge/%E2%96%B6%20REPO-00F0FF?style=flat-square&labelColor=0D0221)](https://github.com/MirEashanZaman/pharma-trace)
+
+<br/>
+
+## `>_ LOADOUT.INSTALLED`
+
+| SLOT | MODULES |
+| :--- | :--- |
+| 🤖 **AI & FinTech** | ![Gemini](https://img.shields.io/badge/Google%20Gemini-0D0221?style=flat-square&logo=googlegemini&logoColor=8E75C2) ![Agents](https://img.shields.io/badge/Autonomous%20Agents-0D0221?style=flat-square&logo=probot&logoColor=00F0FF) ![Guardrails](https://img.shields.io/badge/Safety%20Guardrails-0D0221?style=flat-square&logo=shield&logoColor=FF00E5) ![Scrypt](https://img.shields.io/badge/Scrypt%20%26%20SHA--256-0D0221?style=flat-square&logo=auth0&logoColor=FCEE0A) |
+| ⛓️ **Blockchain** | ![Solidity](https://img.shields.io/badge/Solidity-0D0221?style=flat-square&logo=solidity&logoColor=white) ![Hardhat](https://img.shields.io/badge/Hardhat-0D0221?style=flat-square&logo=hardhat&logoColor=FFF100) ![Ethers](https://img.shields.io/badge/Ethers.js-0D0221?style=flat-square&logo=ethereum&logoColor=white) ![ERC721](https://img.shields.io/badge/ERC--721-0D0221?style=flat-square&logo=ethereum&logoColor=00F0FF) ![ZK](https://img.shields.io/badge/Zero--Knowledge%20Proofs-0D0221?style=flat-square&logoColor=6D28D9&color=6D28D9) |
+| 🌐 **Frontend** | ![Next](https://img.shields.io/badge/Next.js-0D0221?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React%2019-0D0221?style=flat-square&logo=react&logoColor=61DAFB) ![TS](https://img.shields.io/badge/TypeScript-0D0221?style=flat-square&logo=typescript&logoColor=3178C6) ![Tailwind](https://img.shields.io/badge/TailwindCSS-0D0221?style=flat-square&logo=tailwind-css&logoColor=38B2AC) ![Capacitor](https://img.shields.io/badge/Capacitor-0D0221?style=flat-square&logo=capacitor&logoColor=119EFF) ![Canvas](https://img.shields.io/badge/HTML5%20Canvas-0D0221?style=flat-square&logo=html5&logoColor=E34F26) |
+| ⚙️ **Backend** | ![Nest](https://img.shields.io/badge/NestJS-0D0221?style=flat-square&logo=nestjs&logoColor=E0234E) ![Node](https://img.shields.io/badge/Node.js-0D0221?style=flat-square&logo=node.js&logoColor=339933) ![C#](https://img.shields.io/badge/C%23-0D0221?style=flat-square&logo=c-sharp&logoColor=239120) ![.NET](https://img.shields.io/badge/.NET%20Core-0D0221?style=flat-square&logo=dotnet&logoColor=512BD4) ![Pusher](https://img.shields.io/badge/Pusher-0D0221?style=flat-square&logo=pusher&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-0D0221?style=flat-square&logo=php&logoColor=777BB4) |
+| 🗄️ **Data & DevOps** | ![Postgres](https://img.shields.io/badge/PostgreSQL-0D0221?style=flat-square&logo=postgresql&logoColor=4B8BBE) ![Redis](https://img.shields.io/badge/Redis-0D0221?style=flat-square&logo=redis&logoColor=DC382D) ![MySQL](https://img.shields.io/badge/MySQL-0D0221?style=flat-square&logo=mysql&logoColor=4479A1) ![SQLServer](https://img.shields.io/badge/SQL%20Server-0D0221?style=flat-square&logo=microsoftsqlserver&logoColor=CC292B) ![TypeORM](https://img.shields.io/badge/TypeORM-0D0221?style=flat-square&logo=typeorm&logoColor=FE0803) ![Docker](https://img.shields.io/badge/Docker-0D0221?style=flat-square&logo=docker&logoColor=2496ED) ![Actions](https://img.shields.io/badge/GitHub%20Actions-0D0221?style=flat-square&logo=github-actions&logoColor=2088FF) |
+
+<br/>
+
+## `>_ ARCADE.EXE`
 
 <div align="center">
 
-| ♟️ Chess Engine | ⚡ Arcade Shooter | 🐍 Retro Snake | 🏃 Endless Runner |
+| ♟️ CHESS-MASTER | ⚡ NEON-STRIKE | 🐍 SNAKE NOSTALGIA | 🏃 SKY-DASHER |
 | :---: | :---: | :---: | :---: |
-| **[Chess-Master](https://chess-master-play.netlify.app/)** | **[Neon-Strike](https://neon-strike01.netlify.app/)** | **[Snake Nostalgia](https://snake-game-nostalgia.netlify.app/)** | **[Sky-Dasher](https://sky-dasher.netlify.app/)** |
-| Move validation & check engine | Custom particle physics & neon UI | Responsive grid collision | Procedural physics platformer |
-| [▶ Play Now](https://chess-master-play.netlify.app/) | [▶ Play Now](https://neon-strike01.netlify.app/) | [▶ Play Now](https://snake-game-nostalgia.netlify.app/) | [▶ Play Now](https://sky-dasher.netlify.app/) |
+| Move validation & check engine | Particle physics & neon UI | Responsive grid collision | Procedural physics platformer |
+| [**▶ PLAY**](https://chess-master-play.netlify.app/) | [**▶ PLAY**](https://neon-strike01.netlify.app/) | [**▶ PLAY**](https://snake-game-nostalgia.netlify.app/) | [**▶ PLAY**](https://sky-dasher.netlify.app/) |
 
 </div>
 
----
-
-<details>
-<summary><b>📂 Additional Enterprise Solutions & Academic Systems (Click to expand)</b></summary>
 <br/>
 
-- 🚗 **[Car-Showroom-Management-System](https://github.com/MirEashanZaman/Car-Showroom-Management-System)** — C# .NET desktop management system for showroom car inventory, transactions, and customer financing contracts.
-- 🩸 **[Blood_Bridge](https://github.com/MirEashanZaman/Blood_Bridge)** — Emergency blood donor-to-recipient matching platform with geo-proximity search and instant notifications.
-- 🏨 **[Hotel-Management-System](https://github.com/MirEashanZaman/Hotel-Management-System)** — Hospitality software handling dynamic room allocations, guest check-in/out, and invoicing.
-- 💊 **[Pharmacy_Management_System](https://github.com/MirEashanZaman/Pharmacy_Management_System)** — Full pharmacy POS and inventory management system for monitoring expiry and stock.
-- ✈️ **[Travel-Guide](https://github.com/MirEashanZaman/Travel-Guide)** — Travel itinerary planner and tour guide booking companion web app.
-- 📚 **[wbt-spring-2025-2026](https://github.com/MirEashanZaman/wbt-spring-2025-2026)** — Coursework repositories, lab exercises, and architectural demos for Web Technology course.
-- 🔷 **[AP-.NET](https://github.com/MirEashanZaman/AP-.NET)** — Coursework repositories, lab exercises, and architectural demos for .NET course.
+<details>
+<summary><b>&gt;_ ARCHIVE.DB // older projects (click to decrypt)</b></summary>
+<br/>
+
+- 🚗 **[Car-Showroom-Management-System](https://github.com/MirEashanZaman/Car-Showroom-Management-System)**: C# .NET desktop app for showroom inventory, transactions and customer financing.
+- 🩸 **[Blood_Bridge](https://github.com/MirEashanZaman/Blood_Bridge)**: emergency blood donor-to-recipient matching with geo-proximity search and instant notifications.
+- 🏨 **[Hotel-Management-System](https://github.com/MirEashanZaman/Hotel-Management-System)**: room allocation, guest check-in/out and invoicing.
+- 💊 **[Pharmacy_Management_System](https://github.com/MirEashanZaman/Pharmacy_Management_System)**: pharmacy POS and inventory, with expiry and stock tracking.
+- ✈️ **[Travel-Guide](https://github.com/MirEashanZaman/Travel-Guide)**: itinerary planner and tour guide booking web app.
+- 📚 **[wbt-spring-2025-2026](https://github.com/MirEashanZaman/wbt-spring-2025-2026)**: Web Technology course labs and demos.
+- 🔷 **[AP-.NET](https://github.com/MirEashanZaman/AP-.NET)**: .NET course labs and demos.
 
 </details>
 
----
+<br/>
 
-## 📊 Live Developer Telemetry
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MirEashanZaman&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/MirEashanZaman?style=for-the-badge&logo=github&color=4F46E5" alt="GitHub Followers" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=MirEashanZaman&theme=tokyonight&border_radius=10" height="175" alt="Streak Stats" />
-</div>
-
----
+## `>_ LIVE.TELEMETRY`
 
 <div align="center">
-  <sub>Engineered with architectural discipline & precision by <b>Mir Eashan Zaman</b></sub>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MirEashanZaman&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=FF00E5&icon_color=00F0FF&text_color=FCEE0A" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirEashanZaman&layout=compact&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=FF00E5&text_color=00F0FF" alt="languages" />
+
+<br/>
+
+<img height="165" src="https://streak-stats.demolab.com/?user=MirEashanZaman&theme=synthwave&hide_border=true&background=0D0221&ring=FF00E5&fire=FCEE0A&currStreakLabel=00F0FF" alt="streak" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MirEashanZaman&bg_color=0D0221&color=00F0FF&line=FF00E5&point=FCEE0A&area=true&area_color=FF00E5&hide_border=true" alt="activity graph" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=MirEashanZaman&label=SYSTEM%20VISITS&color=FF00E5&style=for-the-badge&labelColor=0D0221" alt="views" />
+<img src="https://img.shields.io/github/followers/MirEashanZaman?style=for-the-badge&logo=github&color=00F0FF&labelColor=0D0221" alt="followers" />
+
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:00F0FF,50:FF00E5,100:0D0221&section=footer&text=//%20END%20OF%20TRANSMISSION&fontSize=18&fontColor=FCEE0A&fontAlignY=70" alt="footer" />
