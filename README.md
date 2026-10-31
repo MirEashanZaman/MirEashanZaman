@@ -228,8 +228,7 @@
 **NIGHT CITY TIME TRIAL**  
 *One minute. One target. Can you beat the clock?*
 
-[![PLAY CHRONO RUN](https://img.shields.io/badge/%E2%96%B6%20PLAY%20CHRONO%20RUN-FF00E5?style=for-the-badge&labelColor=0D0221)](https://mireashanzaman.github.io/chrono-game.html)
-
+[▶ PLAY CHRONO RUN](https://mireashanzaman.github.io/MirEashanZaman/chrono-game.html)
 </div>
 
 > **Game objective:** Start the run, then hit **STOP** as close to the target time as possible. Every millisecond counts. This standalone mini-game is included as `chrono-game.html`; host it with GitHub Pages to play it directly in your browser.
