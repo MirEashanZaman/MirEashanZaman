@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:0B0F17,50:111827,100:0B0F17&text=MIR%20EASHAN%20ZAMAN&fontSize=32&fontColor=F8FAFC&fontAlign=50&fontAlignY=42&desc=Full-Stack%20Software%20%26%20Distributed%20Systems%20Engineer&descSize=13&descColor=00D6B4&descAlignY=64&stroke=1E293B&strokeWidth=1" alt="Mir Eashan Zaman Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B0F17,50:1E293B,100:00D6B4&text=MIR%20EASHAN%20ZAMAN&fontSize=34&fontColor=F8FAFC&fontAlign=50&fontAlignY=42&desc=Full-Stack%20Software%20%E2%80%A2%20Distributed%20Systems%20Engineer&descSize=13&descColor=00D6B4&descAlignY=65&animation=fadeIn" alt="Mir Eashan Zaman Banner" />
 
 <br/>
 
